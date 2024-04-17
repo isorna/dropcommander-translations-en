@@ -25,8 +25,11 @@ position: 7
 
 ## Unit Types
 * [Infantry](/en/dzc/rules/unit-types#infantry)
+
 * [Aircraft](/en/dzc/rules/unit-types#aircraft)
+
 * [Behemoths](/en/dzc/rules/unit-types#behemoths)
+
 * [Vehicles](/en/dzc/rules/unit-types#vehicles)
   * [Tanks](/en/dzc/rules/unit-types#tanks)
   * [Skimmers](/en/dzc/rules/unit-types#skimmers)
