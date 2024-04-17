@@ -121,13 +121,13 @@ Thrust is a ship’s maximum move distance per game turn in inches. Several fact
 
 Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship’s base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
 
-### <a name="armour"></a>Armour (A)
+### Armour (A){#armour}
 
 _In comparison to civilian vessels, true warships are always  armoured  in some way to make them more resistant to damage. This can range from the basic hardening of individual components and incorporating multiple back-up systems to being sheathed in metres-thick plates of highly advanced armour_.
 
 In game terms the Armour characteristic is a saving throw on a D6 against each point of Hull damage taken expressed as 3+, 4+ etc. When a ship is damaged roll a D6 for each point of damage inflicted on it. Each successful armour save prevents one point of Hull damage.
 
-### <a name="point-defence"></a>Point Defence (PD)
+### Point Defence (PD){#point-defence}
 
 _All fighting ships carry some sort of point defence to protect themselves against small objects. Point Defences are the equivalent of Active Countermeasures on ground based units; systems that identify and neutralise incoming threats to the ship   everything from meteorites to nuclear-tipped missiles_.
 
@@ -135,11 +135,11 @@ _The exact weapons used can take many forms: pulse lasers, rapid fire gauss guns
 
 For the most part Point Defence relies on quantity rather than quality. The number indicated by this characteristic indicates the number of dice the ship can roll in self-defence when attacked by enemy Close Action weapons and some Launch Assets. These rules are covered later on.
 
-### <a name="group"></a>Group (G)
+### Group (G){#group}
 
 Group indicates the normal operating parameters for ships of this class within the larger fleet. Smaller vessels such as frigates will tend to operate in groups of one to four of the same type of ship working together, while large vessels might only be found together in one or twos. The Group characteristic is used when choosing a fleet before the game (see Fleet Selection).
 
-### <a name="tonnage"></a>Tonnage (T)
+### Tonnage (T){#tonnage}
 
 There are four main Tonnage categories in Dropfleet commander: **Light (L), Medium (M), Heavy (H) and Super Heavy (S)**. There are also some ships that fall between the classes such as L2 and H2. As with the Group characteristic, Tonnage is primarily used in conjunction with Fleet Selection as players will often have to consider the Tonnage of the vessels under their command. Tonnage also figures into scenarios where victory conditions are often calculated using the tonnage of surviving vessels.
 

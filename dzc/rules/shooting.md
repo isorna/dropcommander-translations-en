@@ -52,35 +52,35 @@ Most units are equipped with weapons capable of delivering death and destruction
   </tbody>
 </table>
 
-### <a name="move-and-fire"></a>Move and Fire - M&F
+### Move and Fire - M&F{#move-and-fire}
 
 The maximum distance the unit may move and still fire the weapon. A dash here shows that the unit may move its full distance and still fire the weapon. If a unit shoots before moving, it cannot then move further than the M&F value.
 
-### <a name="arc-of-fire"></a>Arc of Fire - Arc
+### Arc of Fire - Arc{#arc-of-fire}
 
 Describes the angles at which the weapon can fire relative to the model’s central axis.
 
-### <a name="full-range"></a>Full Range - R(F)
+### Full Range - R(F){#full-range}
 
 Represents the maximum effective range of the weapon. Weapons with a range value represented by a ∞ symbol have essentially an infinite range within the confines of the game table. Weapons with a range value of CQ are called Close Quarters weapons and require the attacking unit to be in the same Garrison as the target.
 
-### <a name="countered-range"></a>Countered Range - R(C)
+### Countered Range - R(C){#countered-range}
 
 Represents the effective range of the weapon against targets which employ Active countermeasures.
 
-### <a name="shots"></a>Shots (S)
+### Shots (S){#shots}
 
 The number of shots a weapon has. Note that this purely simulates the extra killing power of rapid fire weapons and does not always represent how many actual rounds are fired (a machine gun might fire dozens of bullets a second but won’t get dozens of shots).
 
-### <a name="accuracy"></a>Accuracy (Acc)
+### Accuracy (Acc){#accuracy}
 
 Represents the accuracy of the weapon. This is the dice roll value required when rolling to hit (lower target numbers are better). Weapons with a dash or a value of 0 automatically hit.
 
-### <a name="energy"></a>Energy (E)
+### Energy (E){#energy}
 
 Represents the destructive power of the weapon.
 
-### Special
+### Special
 
 Any special rules which apply to the weapon. Any special rules which are not outlined in the "Special Rules" section of the rulebook will be described below the unit’s weapon profile.
 

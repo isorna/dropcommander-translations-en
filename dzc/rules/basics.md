@@ -91,7 +91,7 @@ Re-roll successful Collatoral Damage hits against this unit.
 
 The name of the unit.
 
-### Points Cost (Pts)
+### Points Cost (Pts){#points}
 
 Most units in the game cost points to field in your army. Units with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single unit within the squad.
 
@@ -99,19 +99,19 @@ Most units in the game cost points to field in your army. Units with a higher po
 
 This represents if this unit can carry other units and if it can be carried by other units, as well as how much it can carry and how much space it takes up if it can be carried (see Transports for more details).
 
-### Move (MV)
+### Move (MV){#move}
 
 The maximum distance the unit may move. This is listed in inches.
 
-### Countermeasures (CM)
+### Countermeasures (CM){#countermeasures}
 
 The type and potency of the Countermeasures utilized by the unit (see Shooting for more details). Active Countermeasures are denoted by an "A", Passive Countermeasures by a "P" with a number next to it, and Evasion Countermeasures by an "E" with a number next to it.
 
-### Armour (A)
+### Armour (A){#armour}
 
 Represents the resilience of the unit to damage. Higher numbers represent better protection.
 
-### Damage Points (D)
+### Damage Points (D){#damage-points}
 
 The maximum number of damage a unit may sustain before it is destroyed.
 
@@ -177,7 +177,7 @@ Any unit in your army is a friendly unit, and any in opposing armies are enemy u
 
 When abilities say they affect any or every friendly unit, that does include the unit using the ability, provided they are eligible to be the target.
 
-## Units, Squads & Battlegroups
+## Units, Squads & Battlegroups{#units-squads-battlegroups}
 
 Dropzone categorises miniatures in three ways: units, squads, and Battlegroups. These three categories are used in different ways in many of the rules, so it’s important to note the differences between them.
 
