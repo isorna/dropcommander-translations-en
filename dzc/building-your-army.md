@@ -6,7 +6,8 @@ position: 5
 
 # {{ $frontmatter.title }}
 
-_The battlefields of the 27th Century are dangerous places, with armies fighting for supremacy over entire worlds and solar systems, trying to take control of the galaxy for resources and survival_.
+::: tip _The battlefields of the 27th Century are dangerous places, with armies fighting for supremacy over entire worlds and solar systems, trying to take control of the galaxy for resources and survival_.
+:::
 
 Armies in Dropzone Commander are built following a structure. This represents the typical sorts of compositions of forces in a battlezone, from the largest Behemoths all the way down to the humble infantry soldier.
 
@@ -111,7 +112,8 @@ If there are Auxiliary squads left over which are yet to complete their actions 
 
 A typical Battlegroup will contain between 1 and 6 squads. Battlegroups normally consist of complementary squads which together can fulfil a specific battlefield role.
 
-_For example, an Armour Battlegroup will contain large numbers of tanks, while a Vanguard Battlegroup will contain more specialized squads_.
+::: info _For example, an Armour Battlegroup will contain large numbers of tanks, while a Vanguard Battlegroup will contain more specialized squads_.
+:::
 
 Each unit has a **Category,** represented by a symbol on their stat sheet. This Category is used to determine which units are allowed in which Battlegroups. Their compositions are defined by the Battlegroup Sheets, which are shown below.
 

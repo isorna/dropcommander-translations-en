@@ -45,7 +45,8 @@ Certain events cause Energy Spikes to be placed on ships to mark their current s
 
 A ship only has one Spike at a time. If a ship already has a Minor Spike and it gets a second one, it turns it into a Major Spike. If a ship already has a Major Spike token it is lit up like a proverbial Christmas tree and doesn’t receive any further spikes until the Major Spike has been removed or reduced to a Minor Spike.
 
-_For example; A ship with a Signature of 6 gains a Minor Spike. Its Signature will count as 12 until the Spike is removed. If the ship gains another Minor Spike it becomes a Major Spike and the ship counts as Signature 18 until the Spike is removed_.
+::: info _For example; A ship with a Signature of 6 gains a Minor Spike. Its Signature will count as 12 until the Spike is removed. If the ship gains another Minor Spike it becomes a Major Spike and the ship counts as Signature 18 until the Spike is removed_.
+:::
 
 Use the status wheel on a ship’s base to track its energy spikes, turning the wheel as appropriate when spikes are gained or lost. Players may use a marker to represent these if they wish.
 
@@ -75,7 +76,8 @@ Each weapon system has characteristics that specify its Lock number in the ship 
 
 Passive Countermeasures can still attempt to save against critical hits using their additional Armour value (see below for more details).
 
-_For example, if a weapon system has a Lock roll of 4+ any Attack Dice that roll 6 will ignore the target’s Armour saving throw and be applied directly to the target’s Hull. A weapon system with a Lock roll of 3+ would ignore Armour saves on rolls of 5 or 6 and so on_.
+::: info _For example, if a weapon system has a Lock roll of 4+ any Attack Dice that roll 6 will ignore the target’s Armour saving throw and be applied directly to the target’s Hull. A weapon system with a Lock roll of 3+ would ignore Armour saves on rolls of 5 or 6 and so on_.
+:::
 
 ### Shooting between Orbital Layers
 
@@ -83,7 +85,8 @@ A ship firing from one Orbital Layer to another suffers a +1 penalty to its weap
 
 ### Shooting into & out of Atmosphere
 
-_The difficulty of shooting between Orbital Layers is compounded when shooting through Atmosphere, where firing anything from a laser to a mass driver becomes highly inaccurate as energy bleeds off and is lost, plasma disperses etc. Targeting and effectively damaging ships or cities in Atmosphere is roughly analogous to hitting an object at the bottom of a slime filled pond_.
+::: tip _The difficulty of shooting between Orbital Layers is compounded when shooting through Atmosphere, where firing anything from a laser to a mass driver becomes highly inaccurate as energy bleeds off and is lost, plasma disperses etc. Targeting and effectively damaging ships or cities in Atmosphere is roughly analogous to hitting an object at the bottom of a slime filled pond_.
+:::
 
 **Unless a weapon system is specifically designed to attack such enemies, any weapon system firing from Atmosphere or at a ship in Atmosphere has its lock value changed to 6+ regardless of any other modifiers. In addition to this, detection range is limited to the firer’s Scan value**. Signature and energy spikes are ignored.
 
@@ -107,7 +110,8 @@ A Sector that loses all of its Hull points is turned into ruins. Any Ground Asse
 
 ### Nuke the site from orbit
 
-_All capital ships carry a small compliment of nuclear warheads for very specific circumstances_.
+::: tip _All capital ships carry a small compliment of nuclear warheads for very specific circumstances_.
+:::
 
 In games of Dropfleet Commander you may find yourself in the position to launch one of these devastating attacks against a Sector, however be warned, you might suffer a reduction in your victory point total for destroying valuable infrastructure (see the Scenarios section for more details).
 

@@ -14,8 +14,6 @@ Models in Dropzone Commander are referred to as units. Sometimes a unit will be 
 
 **Hazard Suit Team** (35 pts) **EXOTIC**
 
-**Unit´s name** (Points cost) **Category** - This defines the unit’s role within a Battlegroup.
-
 <table>
   <thead>
     <tr>
@@ -91,6 +89,10 @@ Re-roll successful Collatoral Damage hits against this unit.
 
 The name of the unit.
 
+### Category
+
+This defines the unit’s role within a Battlegroup.
+
 ### Points Cost (Pts){#points}
 
 Most units in the game cost points to field in your army. Units with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single unit within the squad.
@@ -135,13 +137,14 @@ Any weapons the unit has access to are listed here. A unit may have multiple wea
 
 Some units have options, such as additional weapons. These are listed here along with any additional points costs. If a player chooses to pay the points cost, they gain the weapon on the stat sheet. Note that all units in a squad must be armed identically, so if one unit choose to replace its weapons, all units in that squad must also do so. Any special rules unique to the unit are also listed here.
 
-## The Golden Rule
+::: tip The Golden Rule
 
 Dropzone Commander is a game designed for fun and tense battles. The rules are written to minimise disagreements, but will never be ironclad - particularly in high stakes competitive settings. In situations where it’s not immediately obvious how to proceed, always remember the Golden Rule: the object of the game is to win, the point of the game is for both players to have fun.
 
 In a fun game, it’s good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. If your opponent wants to do something fun and interesting, put yourself in their shoes - who knows when you ll want to try something equally as daring?
 
 Failing that, if you still can’t decide on a way to proceed, roll a dice! It’s easier to do that than to spend a long time poring over rules - roll off, then make a note to double-check after the game is over.
+:::
 
 ## Dice
 
@@ -149,7 +152,8 @@ Dropzone Commander uses 6-sided dice, often referred to as D6. Unless otherwise 
 
 **Often dice will have modifiers to their rolls. A plus penalty (such as a +2 penalty) will increase the number needed to roll, whereas a minus bonus (such as a -1 bonus) will reduce the number needed to roll**.
 
-_For example, a weapon suffers a +2 penalty to its 3+ AC value. The player now needs to roll a 5+ to hit with the weapon_.
+::: info _For example, a weapon suffers a +2 penalty to its 3+ AC value. The player now needs to roll a 5+ to hit with the weapon_.
+:::
 
 A roll may have multiple modifiers, which are all added or subtracted together. **However, a roll of a 1 is always a failure**.
 

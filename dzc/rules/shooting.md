@@ -104,7 +104,9 @@ The centre of an enemy model’s main body or base must be within the weapon’s
 
 ## Measure Range Roll to Hit
 
+::: tip Active Countermeasures
 _Some units may have Active Countermeasures. These can detect and destroy or deflect incoming projectiles before they hit their target, either by using a localized energy field, small directed energy beams, or physical munitions. Their effectiveness depends on the speed and point of origin of the incoming projectile, and as such they are less effective against high speed projectiles or shots from close range. They are also totally useless against directed energy weapons (such as lasers)_.
+:::
 
 When targeting a unit with Active Countermeasures (shown in their stat sheet), a weapon must use its **R(C) value**. If a unit **doesn't** have Active Countermeasures, it uses the **R(F) value**. A target must be within this range. If it is not, is cannot be shot. A target in physical contact with the shooting unit always counts as in range for all of its weapons.
 
@@ -128,9 +130,10 @@ A squad that has **disembarked** during that activation suffers a **+2 penalty t
 
 **Evasion Countermeasures** are employed before rolling to hit. A target’s Evasion Countermeasures have a number next to them, which modifies the result needed.
 
-_For example a unit that is out of coherency shoots a weapon with 3+ Accuracy. The target has E+2 Countermeasures_.
+::: info _For example a unit that is out of coherency shoots a weapon with 3+ Accuracy. The target has E+2 Countermeasures_.
 
 _Being out of coherency adds a +1 penalty, making it a 4+ to hit. The target’s Evasion Countermeasures confer an additional +2 penalty, so it requires a 6+ to hit_.
+:::
 
 ## Roll to Damage
 
@@ -158,4 +161,9 @@ If a unit drops to zero Damage Points then it is destroyed. If any special rules
 
 A unit cannot go below zero Damage Points. If there is more damage to resolve after a unit is destroyed, it is simply discarded.
 
-_In this example, we see three Sabres making a Shooting action. Each of the Sabres targets a different Hunter with their UM-100 "Avenger"Railguns. However, their UM-50 "Equalizer" Machineguns are only Energy 3, which means they cannot hurt the Hunters’s Armour 13. So instead they target the Scourge Warrior units_.
+```ÌMG
+SHOOTING EXAMPLE
+```
+
+::: info _In this example, we see three Sabres making a Shooting action. Each of the Sabres targets a different Hunter with their UM-100 "Avenger"Railguns. However, their UM-50 "Equalizer" Machineguns are only Energy 3, which means they cannot hurt the Hunters’s Armour 13. So instead they target the Scourge Warrior units_.
+:::

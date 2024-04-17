@@ -6,7 +6,8 @@ position: 11
 
 # {{ $frontmatter.title }}
 
-_Behemoths are among the largest land- based fighting vehicles in the 27th century. Towering over even super-heavy tanks, these colossi are capable of laying waste to entire formations single-handedly. They also feature exceedingly thick armour, making them nigh-on invulnerable to all but the most powerful weapons, usually those carried by other Behemoths_.
+::: tip _Behemoths are among the largest land- based fighting vehicles in the 27th century. Towering over even super-heavy tanks, these colossi are capable of laying waste to entire formations single-handedly. They also feature exceedingly thick armour, making them nigh-on invulnerable to all but the most powerful weapons, usually those carried by other Behemoths_.
+:::
 
 To reflect their extreme size and power, Behemoths have a unique set of rules. These are fairly in depth and advanced, so we recommend new players get a few games in before scaling up their battles with the massive Behemoths.
 
@@ -20,9 +21,10 @@ Behemoths may enter play as normal (following the normal Deployment rules to rep
 
 ## Drop-Harness
 
-_Drop-harnesses vary in design, but they all operate in a similar manner. Effectively, they are high-thrust, short burn decent arrestors, which slow a Behemoth’s free-fall to allow for a safe landing. In this manner, they may be deployed from low-orbit by Strike Carriers. Drop-harnesses detach on landing and are either discarded or return to their point of origin under their own power. They cannot, however, lift a Behemoth back up from the surface_.
+::: tip _Drop-harnesses vary in design, but they all operate in a similar manner. Effectively, they are high-thrust, short burn decent arrestors, which slow a Behemoth’s free-fall to allow for a safe landing. In this manner, they may be deployed from low-orbit by Strike Carriers. Drop-harnesses detach on landing and are either discarded or return to their point of origin under their own power. They cannot, however, lift a Behemoth back up from the surface_.
 
 _This method of deployment is risky, especially in dense, urban areas populated by enemies. Infantry units deployed alongside a Behemoth often take to battle with portable scanners able to fully 3D map a limited area. Once these scans are made, damage upon landing is mitigated. Without them, it’s not unknown for a Behemoth to sustain critical damage during descent, making for little more than an extremely costly bombardment_.
+:::
 
 When a Behemoth enters play via Drop- harness, it must be called down with a special Signal action. This can only be done when a Behemoth is In Readiness.
 
@@ -69,7 +71,10 @@ If there are any Impassable Scenery pieces left on the board within the Behemoth
 
 **Behemoths that enter via Drop-harness cannot be activated that round**.
 
-_For example, a Behemoth lands via Drop-harness on top of 2 Impassable scenery pieces, 4 units, and within 3" of 3 enemy squads. Upon landing the Behemoth destroys one of the Impassable scenery pieces, and 2 of the units it lands on. After this is resolved, the Behemoth must roll a total of 10 dice (5 for the Impassable scenery piece, 2 for the units underneath it, and 3 for the enemy squads within 3 ). From those rolls it takes 3 points of damage which are randomly allocated to different Zones. The controlling player then moves the Behemoth a minimum distance away from the Impassable scenery piece. Any units under it are then moved, and finally it is placed, ready to begin the game_.
+::: info _For example, a Behemoth lands via Drop-harness on top of 2 Impassable scenery pieces, 4 units, and within 3" of 3 enemy squads. Upon landing the Behemoth destroys one of the Impassable scenery pieces, and 2 of the units it lands on. After this is resolved, the Behemoth must roll a total of 10 dice (5 for the Impassable scenery piece, 2 for the units underneath it, and 3 for the enemy squads within 3 ).
+
+From those rolls it takes 3 points of damage which are randomly allocated to different Zones. The controlling player then moves the Behemoth a minimum distance away from the Impassable scenery piece. Any units under it are then moved, and finally it is placed, ready to begin the game_.
+:::
 
 ## Behemoths & Moving
 
@@ -95,7 +100,8 @@ Due to their massive energy banks, **Behemoths may use Passive Countermeasures a
 
 ## Zones
 
-_Behemoths are so large that distinct areas may be targeted and damaged or destroyed_.
+::: tip _Behemoths are so large that distinct areas may be targeted and damaged or destroyed_.
+:::
 
 A Behemoth is split into three zones: Hull, Legs, and Weapons. The main profile of a Behemoth has no Damage value. Instead, each zone has its own Damage points, and may be targeted separately. Keep track of damage on these zones as if they were individual units. Whenever a unit shoots a Behemoth, choose a zone to target.
 

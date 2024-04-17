@@ -7,6 +7,7 @@ position: 7
 # {{ $frontmatter.title }}
 
 ## Models Characteristics
+* [Category](/en/dzc/rules/basics#category)
 * [Points](/en/dzc/rules/basics#points)
 * [Transport Options](/en/dzc/rules/basics#transport-options)
 * [Move](/en/dzc/rules/basics#move)

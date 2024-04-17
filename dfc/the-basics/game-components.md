@@ -20,7 +20,8 @@ Certain special circumstances can mean that modifiers apply to dice rolls. These
 
 Modifiers can never make results impossible or a foregone conclusion. If a modifier would make a target number of 7+ or 1+ (i.e. impossible to achieve or impossible to fail), this is reduced to a 6+ and 2+ respectively.
 
-_For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)_.
+::: info _For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)_.
+:::
 
 ### Rerolls
 
@@ -81,7 +82,8 @@ Battlegroups are assembled together to form your fleet, see Building Your Fleet 
 
 **All ships of the same class in a Battlegroup automatically form a group together**.
 
-_For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid_.
+::: info _For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid_.
+:::
 
 Ships in groups have to stay fairly close together so they can rapidly share combat information over secure links to instantly coordinate their actions and hinder enemy intelligence-gathering. Smaller ships with more limited communications gear and lower signature have to stay closer together to retain cohesion as a fighting unit and get the same benefits.
 

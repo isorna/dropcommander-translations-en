@@ -12,7 +12,8 @@ Every Attack Dice that equals or exceeds its Lock number inflicts the number of 
 
 Some weapon system are unpredictable and will inflict a variable number of damage points on each hit scored (e.g. D6, D6+1 etc.). Roll any additional dice needed to determine the actual amount of damage inflicted before any Armour saving throws are made.
 
-_For example; A ship’s description includes a rail gun battery with a Lock of 4+, 3 Attack and 1 Damage. This means that when the weapon system is fired three dice are rolled and each one scores a hit on roll of 4, 5 or 6. Each hit scored by the rail gun battery inflicts 1 Hull damage on the target_.
+::: info _For example; A ship’s description includes a rail gun battery with a Lock of 4+, 3 Attack and 1 Damage. This means that when the weapon system is fired three dice are rolled and each one scores a hit on roll of 4, 5 or 6. Each hit scored by the rail gun battery inflicts 1 Hull damage on the target_.
+:::
 
 ## 5. Roll Armour saving throws and deduct Hull points
 
@@ -26,7 +27,8 @@ Any unsaved damage will remove Hull points from the target ship. Track the Hull 
 
 ### Passive countermeasures
 
-_Some advanced ships have additional ’passive’ countermeasures like energy shields, ablative clouds and force fields to protect their ships in addition to regular armour_.
+::: tip _Some advanced ships have additional ’passive’ countermeasures like energy shields, ablative clouds and force fields to protect their ships in addition to regular armour_.
+:::
 
 Passive countermeasures are shown by an additional Armour characteristic (e.g. 3+/4+ indicating a Passive Countermeasure save of 4+). Passive countermeasures are highly effective because they give a ship protection against critical hits which would otherwise punch through armour completely.
 
@@ -34,7 +36,8 @@ The downside to passive countermeasures is that they often increase a ship’s S
 
 **When a ship has more than one saving throw, players choose the best applicable save and compare their roll to this**.
 
-_e.g. A ship has a 3+/4+ save. It receives five hits   three are normal hits, and the remaining two are critical hits. The ship’s owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits_.
+::: info _e.g. A ship has a 3+/4+ save. It receives five hits   three are normal hits, and the remaining two are critical hits. The ship’s owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits_.
+:::
 
 ### Shields up!
 
@@ -52,7 +55,8 @@ When a ship receives damage from these sources roll a number of dice equal to th
 
 Critical hits **can** be stopped by Point Defence but each point of critical hit damage blocked takes **two** Point Defence successes instead of one.
 
-_For example; A cruiser with a PD characteristic of 6 is attacked and suffers four normal points of Hull damage and two points of critical Hull damage from Close Action weapon systems. Rolling six dice for Point Defence it gets 1, 2, 3, 4, 5, 6.   two successes. The ship’s Point Defence can stop two points of ordinary Hull damage or one of the points of critical Hull damage_.
+::: info _For example; A cruiser with a PD characteristic of 6 is attacked and suffers four normal points of Hull damage and two points of critical Hull damage from Close Action weapon systems. Rolling six dice for Point Defence it gets 1, 2, 3, 4, 5, 6.   two successes. The ship’s Point Defence can stop two points of ordinary Hull damage or one of the points of critical Hull damage_.
+:::
 
 ## 6. Roll for Crippling Damage
 

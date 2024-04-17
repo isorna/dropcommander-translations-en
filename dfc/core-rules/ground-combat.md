@@ -6,7 +6,8 @@ position: 8
 
 # Ground Combat
 
-_Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface. Ground to space combat is a tricky business because the combined effects of a planet’s gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet’s primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion_.
+::: tip _Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface. Ground to space combat is a tricky business because the combined effects of a planet’s gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet’s primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion_.
+:::
 
 ## Clusters & Sectors
 

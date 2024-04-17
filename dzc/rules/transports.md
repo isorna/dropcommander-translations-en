@@ -20,9 +20,13 @@ In order for a unit to be transported, its Requirement symbol must **match** a T
 
 Some units will have both Capacity and Requirement symbols, showing that they are Transports that can in turn be carried by another, larger Transport.
 
+```IMG
 ARMOUR REQUIREMENT 3 ARMOUR VALUE 6
+```
 
+::: tip Requirement and Capacity
 _The requirement symbol on the left shows that the unit takes up 3 spaces in a transport. The capacity symbol on the right shows that the unit can transport up to six spaces of that symbol, so could transport up to 2 of the unit on the left_.
+:::
 
 ## Auxiliary Transports
 
@@ -64,7 +68,12 @@ An Aerial Transport that moves **no further than half its MV value and lands** i
 
 Unless otherwise noted, units can only embark into or disembark from an Aerial Transport when it has landed.
 
-_In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires’s activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"_.
+```IMG
+EMBARKING & DISEMBARKING EXCAMPLE
+```
+
+::: info _In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires’s activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"_.
+:::
 
 ## Transports & Shooting
 

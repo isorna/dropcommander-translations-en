@@ -124,7 +124,8 @@ Repeat this until every player has launched that asset, then move onto the next 
 
 **A ship that launches any Launch Assets gains a Minor Spike**.
 
-_Note: If you choose to activate a Ship Group it must launch something, you may not choose not to launch anything as a way to make your opponent reveal their plans!_
+::: info _Note: If you choose to activate a Ship Group it must launch something, you may not choose not to launch anything as a way to make your opponent reveal their plans!_
+:::
 
 ### Time To Target
 
@@ -159,7 +160,8 @@ The effects of a Launch Asset depend on its type and what it’s in contact with
 
 ### Fighters
 
-_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit’s Point Defence_.
+::: tip _Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit’s Point Defence_.
+:::
 
 Fighters lack the firepower necessary to make a dent on larger enemies so in Dropfleet they are limited to a purely defensive role.
 
@@ -173,19 +175,22 @@ Fighters can be launched against friendly or enemy ships, and their rules change
 
 Once the Fighter marker has taken effect it returns to its carrier and is removed from play. Any Fighters which have not taken effect by the following Roundup Phase are removed as they are forced to fly back and refuel.
 
-_For example: 4 UCM Fighters are launched to protect a friendly target. The target gains +12 PD and the Fighters stay with it until the owning player chooses to use the Fighters to supplement its Point Defence against an attack from Launch Assets or Close Action weapons. The owning player can choose to add some, all or none of the escorting Fighter markers to its defence when attacked, gaining +3PD for each_.
+::: info _For example: 4 UCM Fighters are launched to protect a friendly target. The target gains +12 PD and the Fighters stay with it until the owning player chooses to use the Fighters to supplement its Point Defence against an attack from Launch Assets or Close Action weapons. The owning player can choose to add some, all or none of the escorting Fighter markers to its defence when attacked, gaining +3PD for each_.
+:::
 
 **Enemy Ships:** Remove one enemy Fighter token from this ship (they keep each other occupied in dogfighting!) This may only be done when resolving launch asset effects (during the roundup phase) just before Bombers take effect.
 
 ### Bombers
 
-_Bombers are Strike Craft that carry serious ship-killing weaponry, typically deploying a mixture of stand-off missiles and one-shot, high-intensity energy weapons_.
+::: tip _Bombers are Strike Craft that carry serious ship-killing weaponry, typically deploying a mixture of stand-off missiles and one-shot, high-intensity energy weapons_.
+:::
 
 **Bombers make an attack with their profile when arriving at an enemy ship**.
 
 When Bombers from multiple sources attack the same target they coordinate their run to overwhelm its Point Defence. Roll all of the Bomber’s attacks together when they take effect and treat it as a single attack versus the target’s Point Defence so the defender only rolls for  PD once for the ship instead of against each token’s attack separately.
 
-_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship’s Point Defence will only roll once against the massed attack instead of separately against each Bomber_.
+::: info _For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship’s Point Defence will only roll once against the massed attack instead of separately against each Bomber_.
+:::
 
 ### Fire Ships
 
@@ -193,7 +198,8 @@ Fire Ships are a unique type of bomber. They follow all the same rules, but are 
 
 ### Dropships
 
-_Dropships are transporters used for rapidly deploying armoured forces down to a planet’s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract_.
+::: tip _Dropships are transporters used for rapidly deploying armoured forces down to a planet’s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract_.
+:::
 
 **Dropships may only be launched by carriers that are in Atmosphere or Low Orbit if targeting a Space Station**.
 
@@ -203,7 +209,8 @@ When they do, they deliver one Armour or Infantry token to the Sector or Space S
 
 ### Bulk lander
 
-_Bulk landers are large, lightly armoured landing craft used by troopships to deploy large numbers of ground troops or anti-ship weapon emplacements. Bulk Landers are considerably slower and more vulnerable than Dropships, as they are not designed for 1st wave assaults on entrenched positions, but rather as occupying or reinforcing troops once a beachhead is secured_.
+::: tip _Bulk landers are large, lightly armoured landing craft used by troopships to deploy large numbers of ground troops or anti-ship weapon emplacements. Bulk Landers are considerably slower and more vulnerable than Dropships, as they are not designed for 1st wave assaults on entrenched positions, but rather as occupying or reinforcing troops once a beachhead is secured_.
+:::
 
 **Bulk landers may only be launched by carriers that are in Low Orbit or Atmosphere**.
 
@@ -217,7 +224,8 @@ For speed of play and ease of use, most players will find it easier to declare w
 
 ### Torpedoes
 
-_Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit_.
+::: tip _Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit_.
+:::
 
 The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target’s next activation**.
 

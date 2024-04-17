@@ -6,7 +6,8 @@ position: 4
 
 # Orbital Layers
 
-_The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system. Because of this the majority of combat between ships occurs in close proximity to a habitable (or at least colonisable) planet, moon or comparable celestial body_.
+::: tip _The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system. Because of this the majority of combat between ships occurs in close proximity to a habitable (or at least colonisable) planet, moon or comparable celestial body_.
+:::
 
 Once an enemy fleet moves in to try to knock down satellite coverage and bombard targets on the surface it is only a matter of time before a full-blown invasion will be launched. This is the point where a defending fleet is forced to stand and fight or surrender control of the planet altogether.
 

@@ -10,7 +10,8 @@ position: 6
 
 ### Access
 
-_Shaltari forces use Gates - high tech teleportation devices to transport units safely directly from a mothership to the battlefield. Equally useful - though much less high tech - are Resistance Drills that create vast tunnel networks under a combat zone before emerging to expel fighters directly into the fight_.
+::: tip _Shaltari forces use Gates - high tech teleportation devices to transport units safely directly from a mothership to the battlefield. Equally useful - though much less high tech - are Resistance Drills that create vast tunnel networks under a combat zone before emerging to expel fighters directly into the fight_.
+:::
 
 Units with this rule are always Transports, and use the normal rules, including which type of units they can transport (indicated by the Transport Value symbol as normal).
 
@@ -28,19 +29,22 @@ Any squads that start the game in Holding must be declared as such. Those squads
 
 ### Bloodthirsty
 
-_Some warriors are almost mindless, highly aggressive creatures that will always focus on slaughtering enemies_.
+::: tip _Some warriors are almost mindless, highly aggressive creatures that will always focus on slaughtering enemies_.
+:::
 
 If this unit is in the same Garrison as an enemy unit, then it may not move away or leave the Garrison. This unit suffers a -2 penalty when searching for objectives.
 
 ### Command Centre
 
-_Some vehicles are viable as command centres despite their usual battlefield role_.
+::: tip _Some vehicles are viable as command centres despite their usual battlefield role_.
+:::
 
 A Commander can be mounted in this unit as if it had the Command category.
 
 ### Dodge X+
 
-_Preternaturally fast fighters are frequently seen on the battlefield. Sometimes bred specially and sometimes given AI assistance, these warriors are quick enough to avoid blows in close quarters fighting, and even the odd bullet!_
+::: tip _Preternaturally fast fighters are frequently seen on the battlefield. Sometimes bred specially and sometimes given AI assistance, these warriors are quick enough to avoid blows in close quarters fighting, and even the odd bullet!_
+:::
 
 This unit gains a Passive Countermeasures save equal to the X value against **Close Quarters weapons and Collateral Damage**. This may be taken in addition to any other Passive Countermeasures save the unit has.
 
@@ -58,7 +62,8 @@ Unless explicitly mentioned in the scenario special rules, **units with this spe
 
 ### Infiltrate X
 
-_Certain units are specially trained to sneak onto a battlefield prior to full scale engagement, allowing them to set up in an advantageous position_.
+::: tip _Certain units are specially trained to sneak onto a battlefield prior to full scale engagement, allowing them to set up in an advantageous position_.
+:::
 
 Infiltrate units are denoted with a number value. This unit may be Directly Deployed even when the scenario would not normally allow it to do so, ignoring the Aerial Advantage rule. It may deploy up to the listed number of inches from a friendly table edge. Infantry with this special rule may deploy directly into a Garrison if within range. The rest of this unit’s Battlegroup deploys normally, and this unit can make actions even if the rest of its Battlegroup are In Readiness or In Reserve.
 
@@ -66,13 +71,15 @@ A unit deploying using this rule cannot deploy in a Transport, but a Transport w
 
 ### Large
 
-_Battlefields are large and dangerous places, which necessitate large and dangerous war machines and creatures_.
+::: tip _Battlefields are large and dangerous places, which necessitate large and dangerous war machines and creatures_.
+:::
 
 This unit cannot be Hull Down.
 
 ### Rapid Insertion X
 
-_Highly trained special forces soldiers are adept at dropping rapidly down to Terra Firma from an airborne dropship and into the fray with lethal speed, surprise, and aggression. They most often carry breaching charges or similar in order to make their arrival as quick and surprising as possible_.
+::: tip _Highly trained special forces soldiers are adept at dropping rapidly down to Terra Firma from an airborne dropship and into the fray with lethal speed, surprise, and aggression. They most often carry breaching charges or similar in order to make their arrival as quick and surprising as possible_.
+:::
 
 This unit may disembark from Aerial Transports that haven’t landed. Some units with this rule will have a number listed after. That is the number of inches further than normal an Aerial Transport they re embarked in can move and still disembark this unit (up to its maximum MV value).
 
@@ -86,13 +93,15 @@ You may only take a maximum of one of each type of Rare squad in a Skirmish size
 
 ### Resilient
 
-_Whether through dispersed formations, hardened armour, or simply toughened creatures, some fighters or vehicles are simply harder to hurt!_
+::: tip _Whether through dispersed formations, hardened armour, or simply toughened creatures, some fighters or vehicles are simply harder to hurt!_
+:::
 
 A unit with this special rule is immune to Critical hits. They instead act just like normal hits, doing a single point of damage.
 
 ### Wide
 
-_Some units are familiar with active fighting far away from any allies, completing objectives on their own with limited support_.
+::: tip _Some units are familiar with active fighting far away from any allies, completing objectives on their own with limited support_.
+:::
 
 This unit doubles the usual distance of its coherency.
 
@@ -100,19 +109,22 @@ This unit doubles the usual distance of its coherency.
 
 ### Alternate Fire (ALT X)
 
-_Some weapons have multiple fire modes - concentrated and wide energy beams, or anti-tank and anti-air modes, to name but a few_.
+::: tip _Some weapons have multiple fire modes - concentrated and wide energy beams, or anti-tank and anti-air modes, to name but a few_.
+:::
 
 This weapon is represented by more than one weapon profile. Weapons with the same ALT-X number can only fire one profile each round.
 
 ### Anti-Aircraft (AA X)
 
-_These are weapons specifically designed to shoot down aircraft via advanced tracking mechanics_.
+::: tip _These are weapons specifically designed to shoot down aircraft via advanced tracking mechanics_.
+:::
 
 **AA weapons are the only weapons able to target Aircraft**. AA weapons may target other units as normal.
 
 AA weapons are denoted with a number after them. This number modifies the target’s Evasion Countermeasures by the amount listed.
 
-_For example a weapon with AA -2 targeting an enemy unit with E+3 would reduce it to E+1_.
+::: info _For example a weapon with AA -2 targeting an enemy unit with E+3 would reduce it to E+1_.
+:::
 
 In addition, AA weapons can **Reaction Fire**.
 
@@ -148,19 +160,22 @@ Area weapons with the AA special rule may target Aircraft as normal, but only ot
 
 ### Articulated
 
-_Some vehicles (most notably UCM battle tanks) feature folding turrets which have been designed to fire over low obstructions, improving visibility while simultaneously protecting the vehicle’s hull_.
+::: tip _Some vehicles (most notably UCM battle tanks) feature folding turrets which have been designed to fire over low obstructions, improving visibility while simultaneously protecting the vehicle’s hull_.
+:::
 
 Line of sight may be measured from a point 1" above the hull when firing an Articulated weapon.
 
 ### Cover (X)
 
-_Whether pinpoint accurate sniper rifles or radiation-emitting microwave cannons, some weapons can pass through even the toughest of cover_.
+::: tip _Whether pinpoint accurate sniper rifles or radiation-emitting microwave cannons, some weapons can pass through even the toughest of cover_.
+:::
 
 Cover weapons can have up to four keywords denoted: **Soft, Body, Hull and All**. Weapons with Soft ignore Soft Cover, weapons with Body ignore Body Cover, weapons with Hull ignore Hull Down, and weapons with All ignore all cover!
 
 ### Destroyer - DS X+
 
-_Some powerful weapons are designed to specifically destroy heavily armoured vehicles through targeting weak spots in the armour with pinpoint accuracy_.
+::: tip _Some powerful weapons are designed to specifically destroy heavily armoured vehicles through targeting weak spots in the armour with pinpoint accuracy_.
+:::
 
 A Destroyer weapon is denoted by a DS with a number after it.
 
@@ -172,13 +187,15 @@ Passive Countermeasures may still be used against Destroyer hits.
 
 ### Devastator -DV-X (X)
 
-_Devastator weapons are designed specifically to deal with the toughest enemies and structures, and normally feature explosive warheads which detonate after penetration_.
+::: tip _Devastator weapons are designed specifically to deal with the toughest enemies and structures, and normally feature explosive warheads which detonate after penetration_.
+:::
 
 This weapon is denoted by a DV with a number and keywords after it.
 
 When a Devastator weapon hits a target with the type in brackets, roll to damage as normal. However, **it instead does the amount of damage listed by the X value**. If this weapon scores a natural Critical, multiply the X value by 2!
 
-_For example a weapon with DV-3 (Behemoths) hits a Behemoth once. Roll one dice to Damage as normal. If successful, the Behemoth in fact takes three Damage!_.
+::: info _For example a weapon with DV-3 (Behemoths) hits a Behemoth once. Roll one dice to Damage as normal. If successful, the Behemoth in fact takes three Damage!_.
+:::
 
 This special rule may target particular unit types (such as Infantry, Vehicles etc), or even types of scenery pieces. It may even affect every type of unit, denoted by "All". Sometimes a Devastator weapon has more than one value for different types of units, and sometimes a unit can be affected by multiple types (such as a Large Vehicle for example). In this situation, simply pick the highest applicable number.
 
@@ -186,7 +203,8 @@ Note that if a weapon is **Devastator (Scenery), on a Critical the damage isn’
 
 ### Flame
 
-_Flame weapons have been seen on the battlefield for millennia, primarily used for clearing out dug in positions_.
+::: tip _Flame weapons have been seen on the battlefield for millennia, primarily used for clearing out dug in positions_.
+:::
 
 These weapons may target enemy Infantry that are in Garrisons, whether they have moved to an edge or not. Simply target the edge of a Garrison as if they were on that edge.
 
@@ -198,13 +216,15 @@ Additionally, every time a Flame weapon targets an Infantry unit inside a Garris
 
 ### Focus X
 
-_Weapons can sometimes combine fire to become something greater than the sum of their parts - achieving higher power and stopping power against well-armoured targets_.
+::: tip _Weapons can sometimes combine fire to become something greater than the sum of their parts - achieving higher power and stopping power against well-armoured targets_.
+:::
 
 Focus weapons are denoted with a number after them.
 
 After rolling to hit, you can choose to discard any number of hits from a single Focus weapon and add the X number to the Energy value of one or more of the remaining shots.
 
-_For example, a unit of Scourge Warriors fires their Plasma Rifles with Focus-3. They hit with 4 shots. The player decides to discard 2 of the shots to turn the Energy of the remaining 2 shots from 3 to 6. Alternatively they could discard 3 of the shots so the 1 remaining shot fires at a massive Energy 12!_
+::: info _For example, a unit of Scourge Warriors fires their Plasma Rifles with Focus-3. They hit with 4 shots. The player decides to discard 2 of the shots to turn the Energy of the remaining 2 shots from 3 to 6. Alternatively they could discard 3 of the shots so the 1 remaining shot fires at a massive Energy 12!_
+:::
 
 ### Indirect
 
@@ -214,7 +234,8 @@ An Indirect weapon can instead choose to target an enemy squad that it (or any f
 
 ### Limited X
 
-_Some weapons may only be fired a number of times before they run out of ammunition_.
+::: tip _Some weapons may only be fired a number of times before they run out of ammunition_.
+:::
 
 A weapon with Limited uses is denoted by an L with a number by it.
 
@@ -222,7 +243,8 @@ The number is the number of times that weapon can be used for a Shooting action 
 
 ### Penetrative - P
 
-_Some weapons are able to penetrate armour much thicker than they would otherwise be effective against by careful application of force or particularly accurate shots, such as shaped charge explosions or anti-materiel rifles_.
+::: tip _Some weapons are able to penetrate armour much thicker than they would otherwise be effective against by careful application of force or particularly accurate shots, such as shaped charge explosions or anti-materiel rifles_.
+:::
 
 Penetrative weapons always do damage to targets on a damage roll of 6.
 
@@ -240,7 +262,8 @@ If **not** a Close Quarters Weapon, this combined fire can gain the AA rule for 
 
 ### Strafe - Strafe-X
 
-_Some weapons have such colossal fire output that they can tear through entire regiments or armoured companies in a single volley_.
+::: tip _Some weapons have such colossal fire output that they can tear through entire regiments or armoured companies in a single volley_.
+:::
 
 Strafe weapons are denoted with a number by them. When making a Shooting action, this weapon can be fired the number of times listed, but each must be fired at units within 3" of at least one other targeted unit. You can target the same unit multiple times. Declare all targets before rolling to hit as normal.
 
@@ -250,6 +273,7 @@ Weapons with the Structural special rule cannot be affected by Crippled results 
 
 ### Tech Killer
 
-_Devastating against enemy armour and infantry alike, these weapons have little to no effect on structures_.
+::: tip _Devastating against enemy armour and infantry alike, these weapons have little to no effect on structures_.
+:::
 
 A Tech Killer weapon cannot damage scenery pieces.
