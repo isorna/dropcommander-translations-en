@@ -12,9 +12,9 @@ features:
       dark: '/img/ui/moon-landing.dark.png'
       width: '100px'
       height: '100px'
-    title: 'Dropfleet Commander V1.3.1'
+    title: 'Dropfleet Commander V1.7'
     link: './dfc/'
-    details: 'Updated Dropfleet Commander rules.'
+    details: 'Updated Dropfleet Commander rules & FAQ v2.6.1.'
   - icon:
       light: '/img/ui/orbit.png'
       dark: '/img/ui/orbit.dark.png'
