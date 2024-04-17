@@ -18,6 +18,7 @@ position: 0
     filteredPages.find(page => page.href == `${slug}building-your-army.html`),
     filteredPages.find(page => page.href == `${slug}special-rules.html`),
     filteredPages.find(page => page.href == `${slug}glossary.html`),
+    filteredPages.find(page => page.href == `${slug}faq.html`),
   ]
 </script>
 

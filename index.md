@@ -22,7 +22,7 @@ features:
       height: '100px'
     title: 'Dropzone Commander V2.2.0'
     link: './dzc/'
-    details: 'Updated Dropzone Commander rules.'
+    details: 'Updated Dropzone Commander rules & FAQ v2.4'
 ---
 <script lang="ts" setup>
 import { onMounted } from 'vue'
