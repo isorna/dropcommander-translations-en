@@ -4,7 +4,7 @@ excerpt: 'Aircraft are able to react to dropzones much quicker than conventional
 position: 3
 ---
 
-# Aerial Advantage
+# {{ $frontmatter.title }}
 
 Aircraft are able to react to dropzones much quicker than conventional ground-based war machines, and commanders are often the first to battle to oversee their forces.
 

@@ -4,7 +4,7 @@ excerpt: 'Unit Special Rules'
 position: 6
 ---
 
-# Special Rules
+# {{ $frontmatter.title }}
 
 ## Unit Special Rules
 

@@ -28,7 +28,7 @@ Aircraft units must be within 6" of another unit within their squad to be in coh
 
 **Only weapons with the Anti- Aircraft (AA) special rule may shoot at Aircraft**.
 
-See the Aircraft section for more rules on using Aircraft.
+See the [Aircraft section](/en/dzc/rules/aircraft) for more rules on using Aircraft.
 
 ## Behemoths
 
@@ -36,7 +36,7 @@ _The largest weapons ever created for ground- based combat, Behemoths are engine
 
 Behemoths are the biggest and most dangerous vehicles employed on the battlefield, and as such have several rules associated with their use.
 
-See the Behemoth section for more rules on using Behemoths.
+See the [Behemoth section](/en/dzc/rules/behemoths) for more rules on using Behemoths.
 
 ## Vehicles
 

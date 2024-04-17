@@ -52,21 +52,37 @@ Most units are equipped with weapons capable of delivering death and destruction
   </tbody>
 </table>
 
-**Move and Fire - M&F** - The maximum distance the unit may move and still fire the weapon. A dash here shows that the unit may move its full distance and still fire the weapon. If a unit shoots before moving, it cannot then move further than the M&F value.
+### <a name="move-and-fire"></a>Move and Fire - M&F
 
-**Arc of Fire - Arc** - Describes the angles at which the weapon can fire relative to the model’s central axis.
+The maximum distance the unit may move and still fire the weapon. A dash here shows that the unit may move its full distance and still fire the weapon. If a unit shoots before moving, it cannot then move further than the M&F value.
 
-**Full Range - R(F)** - Represents the maximum effective range of the weapon. Weapons with a range value represented by a ∞ symbol have essentially an infinite range within the confines of the game table. Weapons with a range value of CQ are called Close Quarters weapons and require the attacking unit to be in the same Garrison as the target.
+### <a name="arc-of-fire"></a>Arc of Fire - Arc
 
-**Countered Range - R(C)** - Represents the effective range of the weapon against targets which employ Active countermeasures.
+Describes the angles at which the weapon can fire relative to the model’s central axis.
 
-**Shots (S)** - The number of shots a weapon has. Note that this purely simulates the extra killing power of rapid fire weapons and does not always represent how many actual rounds are fired (a machine gun might fire dozens of bullets a second but won’t get dozens of shots).
+### <a name="full-range"></a>Full Range - R(F)
 
-**Accuracy (Acc)** - Represents the accuracy of the weapon. This is the dice roll value required when rolling to hit (lower target numbers are better). Weapons with a dash or a value of 0 automatically hit.
+Represents the maximum effective range of the weapon. Weapons with a range value represented by a ∞ symbol have essentially an infinite range within the confines of the game table. Weapons with a range value of CQ are called Close Quarters weapons and require the attacking unit to be in the same Garrison as the target.
 
-**Energy (E)** - Represents the destructive power of the weapon.
+### <a name="countered-range"></a>Countered Range - R(C)
 
-**Special** - Any special rules which apply to the weapon. Any special rules which are not outlined in the "Special Rules" section of the rulebook will be described below the unit’s weapon profile.
+Represents the effective range of the weapon against targets which employ Active countermeasures.
+
+### <a name="shots"></a>Shots (S)
+
+The number of shots a weapon has. Note that this purely simulates the extra killing power of rapid fire weapons and does not always represent how many actual rounds are fired (a machine gun might fire dozens of bullets a second but won’t get dozens of shots).
+
+### <a name="accuracy"></a>Accuracy (Acc)
+
+Represents the accuracy of the weapon. This is the dice roll value required when rolling to hit (lower target numbers are better). Weapons with a dash or a value of 0 automatically hit.
+
+### <a name="energy"></a>Energy (E)
+
+Represents the destructive power of the weapon.
+
+### Special
+
+Any special rules which apply to the weapon. Any special rules which are not outlined in the "Special Rules" section of the rulebook will be described below the unit’s weapon profile.
 
 ## Check Movement
 
@@ -90,11 +106,11 @@ The centre of an enemy model’s main body or base must be within the weapon’s
 
 _Some units may have Active Countermeasures. These can detect and destroy or deflect incoming projectiles before they hit their target, either by using a localized energy field, small directed energy beams, or physical munitions. Their effectiveness depends on the speed and point of origin of the incoming projectile, and as such they are less effective against high speed projectiles or shots from close range. They are also totally useless against directed energy weapons (such as lasers)_.
 
-When targeting a unit with Active Countermeasures (shown in their stat sheet), a weapon must use its **R(C) value**. If a unit **doesn t** have Active Countermeasures, it uses the **R(F) value**. A target must be within this range. If it is not, is cannot be shot. A target in physical contact with the shooting unit always counts as in range for all of its weapons.
+When targeting a unit with Active Countermeasures (shown in their stat sheet), a weapon must use its **R(C) value**. If a unit **doesn't** have Active Countermeasures, it uses the **R(F) value**. A target must be within this range. If it is not, is cannot be shot. A target in physical contact with the shooting unit always counts as in range for all of its weapons.
 
 ## Allocate Shots
 
-Each unit in a squad may fire any or all of the weapons on its stat sheet, unless using Close Quarters weapons - see page 17 for details.
+Each unit in a squad may fire any or all of the weapons on its stat sheet, unless using [Close Quarters weapons](/en/dzc/rules/close-quarters).
 
 When allocating shots, a player **must declare targets for the entire squad before rolling any dice**. Pick an **enemy unit** to shoot at with each weapon for each unit. Separate weapons may fire at different units, (even other squads) but a weapon with multiple shots must use all of them against a single unit (see diagram opposite for an example).
 

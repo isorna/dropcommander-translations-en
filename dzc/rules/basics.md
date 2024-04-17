@@ -87,29 +87,53 @@ Models in Dropzone Commander are referred to as units. Sometimes a unit will be 
 Re-roll successful Collatoral Damage hits against this unit.
 :::
 
-**Name -** The name of the unit.
+### Name
 
-**Points Cost (Pts) -** Most units in the game cost points to field in your army. Units with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single unit within the squad.
+The name of the unit.
 
-**Transport Options -** This represents if this unit can carry other units and if it can be carried by other units, as well as how much it can carry and how much space it takes up if it can be carried (see Transports for more details).
+### Points Cost (Pts)
 
-**Move (MV) -** The maximum distance the unit may move. This is listed in inches.
+Most units in the game cost points to field in your army. Units with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single unit within the squad.
 
-**Countermeasures (CM) -** The type and potency of the Countermeasures utilized by the unit (see Shooting for more details). Active Countermeasures are denoted by an "A", Passive Countermeasures by a "P" with a number next to it, and Evasion Countermeasures by an "E" with a number next to it.
+### Transport Options
 
-**Armour (A) -** Represents the resilience of the unit to damage. Higher numbers represent better protection.
+This represents if this unit can carry other units and if it can be carried by other units, as well as how much it can carry and how much space it takes up if it can be carried (see Transports for more details).
 
-**Damage Points (D) -** The maximum number of damage a unit may sustain before it is destroyed.
+### Move (MV)
 
-**Type -** The type of unit. Certain special rules apply to certain unit types (such as when moving through or over scenery). Infantry types will have a number showing their Fortitude.
+The maximum distance the unit may move. This is listed in inches.
 
-**Special -** Any special rules which apply to the unit. Any rules listed here are described in the main rules.
+### Countermeasures (CM)
 
-**Squad Size -** This number represents the allowed number of units in the Squad. In this example, a Squad consists of 2 Hazard Suit Teams.
+The type and potency of the Countermeasures utilized by the unit (see Shooting for more details). Active Countermeasures are denoted by an "A", Passive Countermeasures by a "P" with a number next to it, and Evasion Countermeasures by an "E" with a number next to it.
 
-**Weapons -** Any weapons the unit has access to are listed here. A unit may have multiple weapons, and unless otherwise stated can use them all in a single activation.
+### Armour (A)
 
-**Extra rules -** Some units have options, such as additional weapons. These are listed here along with any additional points costs. If a player chooses to pay the points cost, they gain the weapon on the stat sheet. Note that all units in a squad must be armed identically, so if one unit choose to replace its weapons, all units in that squad must also do so. Any special rules unique to the unit are also listed here.
+Represents the resilience of the unit to damage. Higher numbers represent better protection.
+
+### Damage Points (D)
+
+The maximum number of damage a unit may sustain before it is destroyed.
+
+### Type
+
+The type of unit. Certain special rules apply to certain unit types (such as when moving through or over scenery). Infantry types will have a number showing their Fortitude.
+
+### Special
+
+Any special rules which apply to the unit. Any rules listed here are described in the main rules.
+
+### Squad Size
+
+This number represents the allowed number of units in the Squad. In this example, a Squad consists of 2 Hazard Suit Teams.
+
+### Weapons
+
+Any weapons the unit has access to are listed here. A unit may have multiple weapons, and unless otherwise stated can use them all in a single activation.
+
+### Extra rules
+
+Some units have options, such as additional weapons. These are listed here along with any additional points costs. If a player chooses to pay the points cost, they gain the weapon on the stat sheet. Note that all units in a squad must be armed identically, so if one unit choose to replace its weapons, all units in that squad must also do so. Any special rules unique to the unit are also listed here.
 
 ## The Golden Rule
 

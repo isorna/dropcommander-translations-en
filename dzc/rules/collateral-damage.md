@@ -4,7 +4,7 @@ excerpt: 'Burning foliage and falling masonry are just as dangerous to occupying
 position: 13
 ---
 
-# Collateral Damage
+# {{ $frontmatter.title }}
 
 _Burning foliage and falling masonry are just as dangerous to occupying forces as a direct hit from a tank shell. Once a structure starts falling apart, whole floors can give way, and fires in forests spread quicker than troops can escape_.
 

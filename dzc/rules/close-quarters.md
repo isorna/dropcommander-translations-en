@@ -6,7 +6,7 @@ position: 8
 
 # Close Quarters
 
-## Close Quarters Weapons & Fortitude
+## <a name="close-quarters-weapons-fortitude"></a>Close Quarters Weapons & Fortitude
 
 These weapons are denoted by a Range value of CQ, and make a few changes to the standard rules.
 

@@ -4,7 +4,7 @@ excerpt: 'The battlefields of the 27th Century are dangerous places, with armies
 position: 5
 ---
 
-# Building Your Army
+# {{ $frontmatter.title }}
 
 _The battlefields of the 27th Century are dangerous places, with armies fighting for supremacy over entire worlds and solar systems, trying to take control of the galaxy for resources and survival_.
 

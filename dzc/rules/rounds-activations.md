@@ -8,7 +8,7 @@ position: 4
 
 A game is played out as a series of rounds. The number of rounds in a game will usually depend on the scenario chosen. Each round is split up into several phases:
 
-## Phase 1: Initiation
+## <a name="initiation"></a>Phase 1: Initiation
 
 A new round always begins with the initiation phase. The initiation sequence is as follows:
 
@@ -17,7 +17,7 @@ A new round always begins with the initiation phase. The initiation sequence is 
 1. Each player replenishes the Command Cards in their hand **up to the highest CV** of a friendly Commander present on the table (including those embarked in a Transport), or 1 Command Card if there are no friendly Commanders.
 1. Any effects that result from certain special rules may be addressed now.
 
-## Phase 2: Battlegroup Activation
+## <a name="battlegroup-activation"></a>Phase 2: Battlegroup Activation
 
 The player that was chosen to go first must activate a Battlegroup that hasn’t yet been activated. The player must also declare which Auxiliary squads they will be activating with this Battlegroup (see the Building Your Army section for more details).
 
@@ -31,7 +31,7 @@ Once the first player has completed all desired actions with this Battlegroup, t
 
 Once all Battlegroups have been activated, move onto Phase 3.
 
-## Phase 3: Round Up
+## <a name="round-up"></a>Phase 3: Round Up
 
 Any special rules and effects which apply in this part of the round are completed now, such as Collateral Damage (see Scenery for more details).
 

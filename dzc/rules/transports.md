@@ -26,7 +26,7 @@ _The requirement symbol on the left shows that the unit takes up 3 spaces in a t
 
 ## Auxiliary Transports
 
-Transports most often are part of the Auxiliary category, which are unlimited in the number you can choose to field in an army. Rules for Auxiliary squads can be found in the Army Roster section (see page 51).
+Transports most often are part of the Auxiliary category, which are unlimited in the number you can choose to field in an army. Rules for Auxiliary squads can be found in the [Army Roster section](/en/dzc/building-your-army#the-army-roster).
 
 **Auxiliary Transports must begin the game with at least half Capacity filled**.
 

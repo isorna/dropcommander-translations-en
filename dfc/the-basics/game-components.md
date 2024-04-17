@@ -73,7 +73,7 @@ The solution is to use a marker to show the exact position of the intersecting s
 
 Note that while not the best way of playing in tournaments or competitive play, some Players may decide on a different house rule for this situation. Simply rule that ships may not move to any position where they cannot be physically placed. This speeds up the game and reduces the use of tokens. However, it is not a fool proof option   in certain situations this can cause problems due to relative miniature size and placement when interacting with order. If it causes problems (even in friendly games), revert to using markers as above.
 
-### Groups & Battlegroups
+### <a name="groups-battlegroups"></a>Groups & Battlegroups
 
 Individual ships in Dropfleet Commander always belong to a Group. Multiple Groups belong to a Battlegroup. It’s worth noting the distinct difference between Groups and Battlegroups, as it comes up a lot!
 

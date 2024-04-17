@@ -7,15 +7,15 @@ position: 7
 # {{ $frontmatter.title }}
 
 * Ships Characteristics
-  * Points (Pts)
+  * Points
   * [Scan](/en/dfc/the-basics/ships-characteristics#scan)
   * [Signature](/en/dfc/the-basics/ships-characteristics#signature)
   * [Thrust](/en/dfc/the-basics/ships-characteristics#thrust)
   * [Hull](/en/dfc/the-basics/ships-characteristics#hull)
-  * [Armour (A)](/en/dfc/the-basics/ships-characteristics#armour-a)
-  * [Point Defence (PD)](/en/dfc/the-basics/ships-characteristics#point-defence-pd)
-  * [Group (G)](/en/dfc/the-basics/ships-characteristics#group-g)
-  * [Tonnage (T)](/en/dfc/the-basics/ships-characteristics#tonnage-t)
+  * [Armour](/en/dfc/the-basics/ships-characteristics#armour)
+  * [Point Defence](/en/dfc/the-basics/ships-characteristics#point-defence)
+  * [Group](/en/dfc/the-basics/ships-characteristics#group)
+  * [Tonnage](/en/dfc/the-basics/ships-characteristics#tonnage)
 
 * Weapon System Characteristics
   * [Lock](/en/dfc/the-basics/ships-characteristics#lock)
@@ -24,11 +24,11 @@ position: 7
   * [Arc](/en/dfc/the-basics/ships-characteristics#arc)
 
 * Game Components
-  * [Groups & Battlegroups](/en/dfc/the-basics/game-components#groups--battlegroups)
+  * [Groups & Battlegroups](/en/dfc/the-basics/game-components#groups-battlegroups)
 
 * [Admirals](/en/dfc/the-basics/admirals)
-  * Admiral Value (AV)
-  * Points (Pts)
+  * Admiral Value
+  * Points
 
 * Orbital Layers
   * [High Orbit/Space](/en/dfc/the-basics/orbital-layers#high-orbitspace)

@@ -4,7 +4,7 @@ excerpt: 'Dropzone Commander official game scenarios'
 position: 7
 ---
 
-# Game Scenarios
+# {{ $frontmatter.title }}
 
 ## Targets of Opportunity
 
