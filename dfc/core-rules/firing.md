@@ -20,107 +20,104 @@ Once a group has moved, all of its ships may fire weapon systems if their orders
 
 ## 1. Check Detection Range and Firing Arc
 
-In space combat few weapons really have a  maximum range . Take away the effects of atmosphere and gravity from the energy of a shot - whether from a kinetic striker or a thermal beam   and it will keep going for an almost infinite distance.
+In space combat few weapons really have a 'maximum range'. Take away the effects of atmosphere and gravity from the energy of a shot - whether from a kinetic striker or a thermal beam - and it will keep going for an almost infinite distance.
 
-However ships still need to be able to accurately predict where enemies will be when the weapon’s fire reaches them in order to plot their location and accurately fire on them.
+However ships still need to be able to accurately predict where enemies will be when the weapon's fire reaches them in order to plot their location and accurately fire on them.
 
-What all this means is that when firing weapons in Dropfleet the Scan and Signature characteristics are used to determine a ship’s effective range.
+To fire a weapon at a target, it must be within both weapon range and firing arc.
 
-**Attacker’s Scan + Target’s Signature = Weapon range for attacker**.
+To determine the effective range of a ships weapons, nominate a target and use the following formula to determine weapon range:
 
-The range a ship can  see  a target at is equal to the target’s Signature characteristic plus the firing ship’s Scan characteristic.
+**Attacker's Scan + Target's Signature = Weapon range for attacker**.
 
-If a target can be detected it can potentially be hit by the firing ship’s weapon systems that can be brought to bear. Look at the weapon system’s Arc characteristic in the firing ship’s description and use the arcs on the base to check if it is within arc of any potential targets.
+If the attacker is within range of the target, it may potentially fire upon it. The next step is to check whether the target is within any of the attackers weapons' firing arcs.
 
-As orbital space is three dimensional, and because of the ability to see all other models as stated above, ships do not block each other from shooting other ships   this applies even if on the table top they may appear to be hiding behind each other or unable to actually  see  the other ship.
+Look at the weapon system's Arc characteristic in the firing ship's description and use the arcs on the base to check if it is within arc of any potential targets. If there are any targets within both weapon range and firing arc, the attacking ship may fire weapons at those targets.
 
-Close Action weapons are short ranged, only using the attacker’s Scan - see Weapon Special rules for more detail.
+There are many potential targets in Dropfleet, but you may not fire upon friendly ships.
+
+As orbital space is three dimensional, and because of the ability to see all other models as stated above, ships do not block each other from shooting other ships - this applies even if on the table top they may appear to be hiding behind each other or unable to actually 'see' the other ship.
+
+Close Action weapons are short ranged, only using the attacker's Scan - see [Weapon Special](/en/dfc/special-rules#close-action) rules for more detail.
 
 ### Energy Spikes
 
-Certain events cause Energy Spikes to be placed on ships to mark their current status. Energy spikes represent all kinds of different events that assist the enemy in accurately targeting the ship   engine usage, weapons fire, even leaks caused by damage or enemy ships actively scanning for the vessel. Energy spikes come in two types: Minor and Major.
+Certain events cause Energy Spikes to be placed on ships to mark their current status. Energy spikes represent all kinds of different events that assist the enemy in accurately targeting the ship - engine usage, weapons fire, even leaks caused by damage or enemy ships actively scanning for the vessel. Energy spikes come in two types: Minor and Major.
 
-* **A Minor energy spike increases the ship’s Signature characteristic by 6 until it is removed**.
-* **A Major energy spike increases the ship’s Signature characteristic by 12 until it is removed**.
+* **A Minor energy spike increases the ship's Signature characteristic by 6"**.
+* **A Major energy spike increases the ship's Signature characteristic by 12"**.
 
-A ship only has one Spike at a time. If a ship already has a Minor Spike and it gets a second one, it turns it into a Major Spike. If a ship already has a Major Spike token it is lit up like a proverbial Christmas tree and doesn’t receive any further spikes until the Major Spike has been removed or reduced to a Minor Spike.
+A ship only has one Spike at a time. If a ship already has a Minor Spike and it gets a second one, it increases the Minor Spike into a Major Spike. If a ship already has a Major Spike token it is lit up like a proverbial Christmas tree and doesn't receive any further spikes until the Major Spike has been removed or reduced to a Minor Spike.
 
-::: info _For example; A ship with a Signature of 6 gains a Minor Spike. Its Signature will count as 12 until the Spike is removed. If the ship gains another Minor Spike it becomes a Major Spike and the ship counts as Signature 18 until the Spike is removed_.
+Signature increases gained through Spikes only last as long as the Spike is present on that ship.
+
+::: info _For example; A ship with a Signature of 6" gains a Minor Spike. Its Signature will count as 12" until the Spike is removed. If the ship gains another Minor Spike it becomes a Major Spike and the ship counts as Signature 18" until the Spike is removed. When the Spike is removed, the ship returns to having a Signature of 6"_.
 :::
 
-Use the status wheel on a ship’s base to track its energy spikes, turning the wheel as appropriate when spikes are gained or lost. Players may use a marker to represent these if they wish.
+Use the status wheel on a ship's base to track its energy spikes, turning the wheel as appropriate when spikes are gained or lost. Players may use a marker to represent these if they wish.
 
 ## 2. Allocate attack dice
 
-The Attack number on a weapon profile is the number of dice that are rolled when that weapon is used.
+The Attack number on a weapon profile is the number of Attack Dice that are rolled when that weapon is used.
 
-Ships may only fire a single weapon system at a single target, they may not split their Attack dice over multiple targets. When rolling for several weapon systems with different characteristics at once it can be helpful to use different coloured dice to represent the different weapon systems instead of rolling each one separately.
+Each firing ship selects a weapon system and a target in both weapon range and weapon arc. The target is then allocated **all** of that weapon systems Attack Dice. Attack Dice from a single weapon system may not be split over multiple ships. You may repeat this for all weapon systems the firing ship(s) are allowed to fire.
+
+When rolling for several weapon systems with different characteristics at once it can be helpful to use different coloured dice to represent the different weapon systems instead of rolling each one separately.
 
 Some weapon systems roll a random number of Attack Dice (i.e. D6 or D3) that is determined each time they shoot. Roll to see how many Attack Dice the weapon system generates before allocating them to available targets.
 
-An active Group will usually contain multiple ships with weapon systems to fire. **All of a Group’s Attack Dice must be allocated between the available targets before any rolls to hit are made**. This helps to speed up game play and prevents the firing player from excessively optimising their shooting in an unrealistic fashion.
+An active Group will usually contain multiple ships with weapon systems to fire. **All of a Group's Attack Dice must be allocated between the available targets before any rolls to hit are made**. This helps to speed up game play and prevents the firing player from excessively optimising their shooting in an unrealistic fashion.
 
 ### Close Action weapons
 
 Close Action weapon systems have a short effective range but they are fast firing and require small amounts of energy to use.
 
-Close Action weapon systems can always be fired in addition to any other weapon systems permitted by a ship’s orders. If a ship may not fire weapon systems it may not fire its close action weapon systems either.
+Close Action weapon systems can always be fired in addition to any other weapon systems permitted by a ship's orders. If a ship may not fire weapon systems it may not fire its close action weapon systems either.
 
 ## 3. Roll to hit
 
-Each weapon system has characteristics that specify its Lock number in the ship description. The Lock number is the number that has to be equalled or exceeded in order to score a hit.
+Roll allocated Attack Dice and compare the results to the weapon's Lock characteristic (after applying any modifiers). Any dice that have rolled at least that number have scored a hit. Any dice that have rolled under that number have failed to hit.
+
+Remember, rolls of a 1 after modifiers always miss and rolls of 6 after modifiers always hit.
+
+You can group identical weapons firing at the same target and roll them together to help speed up game play.
 
 ### Critical Hits
 
-**Any Attack Dice which scores two or more higher than the weapon system’s Lock number is considered to have scored a  critical hit . The Hull damage caused by that Attack Dice ignores the target’s Armour saving throw altogether**.
+**Any Attack Dice which scores two or more higher than the weapon system's Lock number is considered to have scored a 'critical hit'. The Hull damage caused by that Attack Dice ignores the target's Armour saving throw altogether**.
 
-Passive Countermeasures can still attempt to save against critical hits using their additional Armour value (see below for more details).
+Passive Countermeasures can still attempt to save against critical hits using their additional Armour value (see [Passive Countermeasures](/en/dfc/core-rules/damage#passive-countermeasures) for more details).
 
-::: info _For example, if a weapon system has a Lock roll of 4+ any Attack Dice that roll 6 will ignore the target’s Armour saving throw and be applied directly to the target’s Hull. A weapon system with a Lock roll of 3+ would ignore Armour saves on rolls of 5 or 6 and so on_.
+::: info _For example, if a weapon system has a Lock roll of 4+ any Attack Dice that roll 6 will ignore the target's Armour saving throw and be applied directly to the target's Hull. A weapon system with a Lock roll of 3+ would ignore Armour saves on rolls of 5 or 6 and so on_.
 :::
 
 ### Shooting between Orbital Layers
 
-A ship firing from one Orbital Layer to another suffers a +1 penalty to its weapon’s Lock value (i.e. 4+ Lock becomes 5+).
+A ship firing from one Orbital Layer to another suffers a +1 penalty to its weapon's Lock value (i.e. 4+ Lock becomes 5+).
 
 ### Shooting into & out of Atmosphere
 
 ::: tip _The difficulty of shooting between Orbital Layers is compounded when shooting through Atmosphere, where firing anything from a laser to a mass driver becomes highly inaccurate as energy bleeds off and is lost, plasma disperses etc. Targeting and effectively damaging ships or cities in Atmosphere is roughly analogous to hitting an object at the bottom of a slime filled pond_.
 :::
 
-**Unless a weapon system is specifically designed to attack such enemies, any weapon system firing from Atmosphere or at a ship in Atmosphere has its lock value changed to 6+ regardless of any other modifiers. In addition to this, detection range is limited to the firer’s Scan value**. Signature and energy spikes are ignored.
+**Unless a weapon system is specifically designed to attack such enemies, any weapon system firing from Atmosphere or at a ship in Atmosphere has its lock value changed to 6+ regardless of any other modifiers. In addition to this, detection range is limited to the firer's Scan value**. Signature and energy spikes are ignored.
 
-**Close Action weapons may not fire into or out of Atmosphere**.
+Close Action weapons may not fire into or out of Atmosphere.
+
+Close Action weapons may not be fired while in atmosphere unless otherwise stated by a ship or weapon special rule.
 
 Certain rules such as Bombardment and Air- to-Air override the penalties for shooting through orbital layers; these are covered in the special rules section or in individual ship entries.
 
 ### Bombardment
 
-Sometimes a ship’s best course of action
-
-is to destroy the very planet it is fighting over. Ships may target Sectors just like any other target, but the following rules apply. See the Ground Combat section for more details on Sectors and Clusters.
+Sometimes a ship's best course of action is to destroy the very planet it is fighting over. Ships may target Sectors (see [Sectors](/en/dfc/core-rules/ground-combat#sectors)) just like any other target, but the following rules apply. See the [Ground Combat](/en/dfc/core-rules/ground-combat) section for more details on Sectors and Clusters.
 
 **Sectors can only be targeted by ships in Low Orbit** and follow the normal rules for being in Atmosphere.
 
 If a Sector receives any damage it takes saving throws against it just like a ship. Critical hits ignore the saving throw as usual, however as most weapons will have a Lock value of 6+ for targeting something in Atmosphere, you will need a specialist weapon to achieve a Critical hit. (i.e. a weapon with the Bombardment special rule). **You may only target a Sector with weapon systems if it does not contain any friendly Ground Assets**.
 
-If a Sector takes a damage point and the Sector is occupied by Ground Assets then you must roll for collateral damage. Each point of damage will inflict one point of damage on a Ground Asset in this sector (armour saving throws may be taken as normal - see Ground Assets for more details). The player that inflicted the damage chooses how to distribute this damage. One point of damage must be allocated to each Ground Asset before a second point may be allocated.
+### Bombardment Collateral Damage
 
-A Sector that loses all of its Hull points is turned into ruins. Any Ground Assets in the Sector when this happens are destroyed on a roll of 2+, to represent the apocalyptic devastation done to a wide area of the surface. This will also remove the Sector’s value as a strategic objective. Ruins can still be bombarded to try and destroy ground assets, though they have no hull value so do not record this damage.
+If a Sector takes a damage point and the Sector is occupied by Ground Assets then you must roll for collateral damage. Each point of damage will inflict one point of damage on a Ground Asset in this sector (armour saving throws may be taken as normal - see [Ground Assets](/en/dfc/core-rules/ground-combat#ground-assets) for more details). The player that inflicted the damage chooses how to distribute this damage. One point of damage must be allocated to each Ground Asset before a second point may be allocated.
 
-### Nuke the site from orbit
-
-::: tip _All capital ships carry a small compliment of nuclear warheads for very specific circumstances_.
-:::
-
-In games of Dropfleet Commander you may find yourself in the position to launch one of these devastating attacks against a Sector, however be warned, you might suffer a reduction in your victory point total for destroying valuable infrastructure (see the Scenarios section for more details).
-
-Only ships of **Medium, Heavy or Super Heavy** tonnage value may launch a nuclear missile and there are a number of conditions you must satisfy in order to pull off this devastating attack:
-
-* You must be on an order that allows you to fire a weapon system this turn.
-* You must be in low orbit and in scan range of the Sector you wish to destroy.
-* A ship may only launch 1 nuclear attack per turn (this is in addition to any other shooting you may normally be allowed to do).
-* You may not target a Sector which contains friendly Ground Assets.
-* No enemy ships are within 12" of the Sector you are targeting.
-
-If the nuclear missile is launched, the Sector is destroyed on a roll of 2+. If destroyed, any ground assets there are removed from play. There are not even meaningful ruins remaining! **Each other Sector in the Cluster also suffers 1 damage** if the target Sector was destroyed (saves may be taken as normal).
+A Sector that loses all of its Hull points is turned into ruins. If there are any Ground Assets in the sector, roll a D6. If the result is a 2 or more, all Ground Assets in the Sector are destroyed, representing the apocalyptic devastation done to a wide area of the surface. This will also remove the Sector's value as a strategic objective. Ruins can still be bombarded to try and destroy ground assets, though they have no hull value so do not record this damage.
