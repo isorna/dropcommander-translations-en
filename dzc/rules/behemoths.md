@@ -71,9 +71,9 @@ If there are any Impassable Scenery pieces left on the board within the Behemoth
 
 **Behemoths that enter via Drop-harness cannot be activated that round**.
 
-::: info _For example, a Behemoth lands via Drop-harness on top of 2 Impassable scenery pieces, 4 units, and within 3" of 3 enemy squads. Upon landing the Behemoth destroys one of the Impassable scenery pieces, and 2 of the units it lands on. After this is resolved, the Behemoth must roll a total of 10 dice (5 for the Impassable scenery piece, 2 for the units underneath it, and 3 for the enemy squads within 3 ).
+::: info For example, a Behemoth lands via Drop-harness on top of 2 Impassable scenery pieces, 4 units, and within 3" of 3 enemy squads. Upon landing the Behemoth destroys one of the Impassable scenery pieces, and 2 of the units it lands on. After this is resolved, the Behemoth must roll a total of 10 dice (5 for the Impassable scenery piece, 2 for the units underneath it, and 3 for the enemy squads within 3 ).
 
-From those rolls it takes 3 points of damage which are randomly allocated to different Zones. The controlling player then moves the Behemoth a minimum distance away from the Impassable scenery piece. Any units under it are then moved, and finally it is placed, ready to begin the game_.
+From those rolls it takes 3 points of damage which are randomly allocated to different Zones. The controlling player then moves the Behemoth a minimum distance away from the Impassable scenery piece. Any units under it are then moved, and finally it is placed, ready to begin the game.
 :::
 
 ## Behemoths & Moving
