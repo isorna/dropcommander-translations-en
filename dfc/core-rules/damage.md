@@ -77,9 +77,12 @@ When a ship experiences Crippling Damage, roll a D6 and consult the relevant tab
 
 Many Crippling Damage results inflict additional Hull damage on the ship. Armour saving throws never apply against Crippling Damage as it represents the ship suffering internal collapses, cascade failures and systems quite literally melting down. It's worth noting that smaller ships like frigates are quite likely to be destroyed outright by Crippling Damage.
 
-### Crippling Damage Table
-
 <table>
+  <thead>
+    <tr>
+      <th colspan="6">Crippling Damage Table</th>
+    </tr>
+  </thead>
   <thead>
     <tr>
       <th>1st roll</th>
@@ -158,11 +161,11 @@ Many Crippling Damage results inflict additional Hull damage on the ship. Armour
       <td>Yes</td>
     </tr>
   </tbody>
-</table>
-
-### Dreadnought Crippling Damage Table
-
-<table>
+  <thead>
+    <tr>
+      <th colspan="6">Dreadnought Crippling Damage Table</th>
+    </tr>
+  </thead>
   <thead>
     <tr>
       <th>1st roll</th>
@@ -260,9 +263,12 @@ Most Catastrophic Damage results can cause a ship to explode in some fashion. **
 
 Note that the explosion only ever effects ships on the **same Orbital Layer** as the destroyed ship.
 
-### Catastrophic Damage Table
-
 <table>
+  <thead>
+    <tr>
+      <th colspan="2">Catastrophic Damage Table</th>
+    </tr>
+  </thead>
   <thead>
     <tr>
       <th>D6 roll</th>
@@ -295,9 +301,6 @@ Note that the explosion only ever effects ships on the **same Orbital Layer** as
       <td><strong>Distortion Bubble:</strong> Suffer D6 points of Hull damage (roll for each ship individually). Armour and Passive Countermeasures may <strong>not</strong> be used.</td>
     </tr>
   </tbody>
-</table>
-
-<table>
   <thead>
     <tr>
       <th>D6 roll</th>
@@ -335,9 +338,12 @@ Ships are able to repair crippling damage at the start of the 3rd step in the Ro
 
 Armour and Passive Countermeasures cannot prevent Hull damage from this source.
 
-### Damage Control Table
-
 <table>
+  <thead>
+    <tr>
+      <th colspan="2">Damage Control Table</th>
+    </tr>
+  </thead>
   <thead>
     <tr>
       <th>D6 roll</th>

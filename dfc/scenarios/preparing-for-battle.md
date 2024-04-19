@@ -4,7 +4,7 @@ excerpt: 'After choosing a game size and preparing your fleet, you must choose a
 position: 1
 ---
 
-# Preparing For Battle
+# {{ $frontmatter.title }}
 
 After choosing a game size and preparing your fleet, you must choose a scenario. In war, the simple destruction of the enemy is often not the main goal of a particular tactical operation. Perhaps critical geosynchronous orbits must be captured to support ground invasions, enemy held cities might need to be razed from orbit etc. In futuristic warfare, many of these objectives are time critical, necessitating rapid deployment, insertion and support for your ground forces. A selection of scenarios are provided in this book, and many more will appear in the future. Every Scenario will outline the following to define the rules of the game:
 

@@ -1,21 +1,21 @@
 ---
 title: 'Scenario Objectives'
-excerpt: 'While securing a planet’s orbital lanes is key to gaining victory, controlling the ground is equally important.'
+excerpt: "While securing a planet's orbital lanes is key to gaining victory, controlling the ground is equally important."
 position: 2
 ---
 
-# Scenario Objectives
+# {{ $frontmatter.title }}
 
-While securing a planet’s orbital lanes is key to gaining victory, controlling the ground is equally important. Vast swathes of the landscape are worthless, at least in the initial stages of the invasion, however, manufacturing, population and military sectors all provide an invading force resources they can use straight away from new recruits to logistical and military supplies. Capturing these areas is no less important than having orbital dominance and in games of Dropfleet Commander, controlling clusters and sectors is frequently the key to victory.
+While securing a planet's orbital lanes is key to gaining victory, controlling the ground is equally important. Vast swathes of the landscape are worthless, at least in the initial stages of the invasion, however, manufacturing, population and military sectors all provide an invading force resources they can use straight away from new recruits to logistical and military supplies. Capturing these areas is no less important than having orbital dominance and in games of Dropfleet Commander, controlling clusters and sectors is frequently the key to victory.
 
 ## Clusters
 
-Clusters are large urbanised areas on a planet’s surface. Typically, they consist of a range of regions from commercial and manufacturing through to civilian districts and military enclaves. Control of these vast areas of manufacturing, military and civilian infrastructure are vital to controlling the planet. Clusters are made up of a number of sectors and controlling these key locations is critical to controlling the Cluster.
+Clusters are large urbanised areas on a planet's surface. Typically, they consist of a range of regions from commercial and manufacturing through to civilian districts and military enclaves. Control of these vast areas of manufacturing, military and civilian infrastructure are vital to controlling the planet. Clusters are made up of a number of Sectors and controlling these key locations is critical to controlling the Cluster.
 
 Some Scenarios will require you to Hold or Contest a Cluster in order to score Victory Points (VPs) in the game.
 
-* To **hold** a Cluster, you must hold more value in terms of Sectors in that Cluster than your opponent, or more Sectors overall if they are not given a set value in that scenario.
-* To **contest** a Cluster, you must hold 1 or more Sectors in that Cluster.
+* To hold a Cluster, you must hold more value in terms of Sectors in that Cluster than your opponent, or more Sectors overall if they are not given a set value in that scenario.
+* To contest a Cluster, you must hold 1 or more Sectors in that Cluster.
 
 Players score VPs for holding and/or contesting Clusters at the end of the Roundup Phase on turns 4 and 6 unless the scenario defines otherwise.
 
@@ -54,16 +54,16 @@ Clusters come in three sizes, each containing a different number of Sectors, and
 
 ## Sectors
 
-Sectors are the key locations in Clusters that you must secure with ground forces in order to capture and defend their strategic advantage from your opponent! There are 6 types of sectors in the game and you will be required to hold various combinations of these depending on the mission.
+Sectors are the key locations in Clusters that you must secure with ground forces in order to capture and defend their strategic advantage. There are several types of sectors in the game and you will be required to hold various combinations of these depending on the mission.
 
-In order to hold a Sector, you must have more infantry/armoured tokens in that sector than your opponent at the end of the scoring turn, as described in the scenario. If you are required to contest a Sector, you must have 1 or more infantry or armoured tokens in that sector at the end of the of the scoring turn, as described in the scenario.
+In order to hold a Sector, you must have more Infantry and/or Armoured tokens in that sector than your opponent at the end of the scoring turn, as described in the scenario. If you are required to contest a Sector, you must have 1 or more Infantry or Armoured tokens in that sector at the end of the of the scoring turn, as described in the scenario.
 
 Each Sector has a value and the player that controls the highest total value of Sectors controls that Cluster.
 
 <table>
   <thead>
     <tr>
-      <th>Sector</th>
+      <th colspan="2">Sector</th>
       <th>Hull</th>
       <th>Armour</th>
       <th>Value</th>
@@ -72,6 +72,7 @@ Each Sector has a value and the player that controls the highest total value of 
   </thead>
   <tbody>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Commercial</td>
       <td>8</td>
       <td>4+</td>
@@ -79,6 +80,7 @@ Each Sector has a value and the player that controls the highest total value of 
       <td>-</td>
     </tr>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Industrial</td>
       <td>4</td>
       <td>4+</td>
@@ -86,6 +88,7 @@ Each Sector has a value and the player that controls the highest total value of 
       <td>-</td>
     </tr>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Military</td>
       <td>4</td>
       <td>3+</td>
@@ -93,6 +96,7 @@ Each Sector has a value and the player that controls the highest total value of 
       <td>Defence Weapons</td>
     </tr>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Orbital Defence</td>
       <td>6</td>
       <td>3+</td>
@@ -100,6 +104,7 @@ Each Sector has a value and the player that controls the highest total value of 
       <td>Orbital Gun</td>
     </tr>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Power Plant</td>
       <td>6</td>
       <td>4+</td>
@@ -107,20 +112,32 @@ Each Sector has a value and the player that controls the highest total value of 
       <td>Volatile</td>
     </tr>
     <tr>
+      <td><img class="icon--centered" src="/img/ui/40x40.svg"></td>
       <td>Comms Station</td>
       <td>4</td>
       <td>5+</td>
       <td>1</td>
       <td>Scanner Uplink</td>
     </tr>
+    <tr>
+      <td><img class="icon--centered" src="/img/ui/80x80.svg"></td>
+      <td colspan="2">Cluster</td>
+      <td colspan="3" rowspan="4">Moon (LSO)<img class="icon--centered" src="/img/ui/200x200.svg"></td>
+    </tr>
+    <tr>
+      <td><img class="icon--centered" src="/img/ui/80x80.svg"></td>
+      <td colspan="2">Clusters for Clash and Battle sized games</td>
+    </tr>
+    <tr>
+      <td><img class="icon--centered" src="/img/ui/80x80.svg"></td>
+      <td colspan="2">Space Station</td>
+    </tr>
+    <tr>
+      <td><img class="icon--centered" src="/img/ui/80x80.svg"></td>
+      <td colspan="2">Space Station for Clash and Battle sizes games</td>
+    </tr>
   </tbody>
 </table>
-
-* Moon (LSO)
-* Cluster (of Sectors)
-* Clusters for Clash and Battle sized games
-* Space Station
-* Space Station for Clash and Battle sizes games
 
 ## Sector Special Rules
 
@@ -200,13 +217,15 @@ The player holding a Critical Location scores 2VP at the end of the Roundup Phas
 
 ### Surveying a Cluster
 
-To survey a cluster, a ship must be in low orbit, within 6" of the centre point of the cluster and be on standard orders that turn. This happens at the end of a ship’s movement. Only one ship per battlegroup of Tonnage 5 or more may survey a cluster per turn. You may not survey a cluster in turn 1.
+To survey a cluster, a ship must be in low orbit, within 6" of the centre point of the cluster and be on standard orders that turn. This happens at the end of a ship's movement. Only one ship per battlegroup of Tonnage 5 or more may survey a cluster per turn. You may not survey a cluster in turn 1.
 
-When surveying a cluster roll 1 dice, on a roll of 1-4 you gain 1vp, on a roll of a 5+ you score 1 VP and the cluster becomes a critical location. You may only survey a cluster once per game but both sides may survey the same cluster over the course of a game. Once a critical location has been rolled for a cluster then an opponent that surveys the same cluster will automatically receive 1 VP - it does not become a second critical location!
+When surveying a cluster roll 1 D6, on a roll of 4 or less you gain 1 VP, on a roll of a 5 or more you score 1 VP and the cluster becomes a critical location.
+
+You may only survey a cluster once per game but both sides may survey the same cluster over the course of a game. Once a critical location has been rolled for a cluster then an opponent that surveys the same cluster will automatically receive 1 VP - it does not become a second critical location!
 
 ### Destroying a Cluster
 
-Some Scenarios will require the demolition of Clusters! A Cluster counts as destroyed if all Sectors in a Cluster are reduced to Ruins.
+Some Scenarios will require the demolition of Clusters! A Cluster counts as destroyed if all Sectors in a Cluster have been destroyed.
 
 ### Space Stations in Scenarios
 
@@ -219,7 +238,3 @@ VPs may be awarded for destroying or surveying Space Stations - use the same rul
 Some Scenarios will explicitly reward you for destroying enemy ships. Kill Points equal the total points cost of all destroyed ships plus killed Admirals. A scenario may define how may Victory Points you will receive for a given number of Kill Points scored - worked out on the last turn.
 
 In addition, Kill Points are always used in the event of a tie to determine a winner - if the total number of VPs players score is equal, the player with the higher number of Kill Points wins the game.
-
-### Nuke the Site From Orbit Penalty
-
-Using nuclear weapons on a planet a faction needs to capture has negative consequences, but can be the only solution. Unless the Scenario states otherwise, a player always suffers -1VP for each successful use of a nuclear weapon against a Sector.
