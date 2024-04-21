@@ -8,16 +8,16 @@ hero:
   tagline: 'Made for fans, by fans.'
 features:
   - icon:
-      light: '/img/ui/moon-landing.png'
-      dark: '/img/ui/moon-landing.dark.png'
+      light: '/img/ui/orbit.png'
+      dark: '/img/ui/orbit.dark.png'
       width: '100px'
       height: '100px'
     title: 'Dropfleet Commander V1.7.0'
     link: './dfc/'
     details: 'Updated Dropfleet Commander rules & FAQ v2.6.1.'
   - icon:
-      light: '/img/ui/orbit.png'
-      dark: '/img/ui/orbit.dark.png'
+      light: '/img/ui/moon-landing.png'
+      dark: '/img/ui/moon-landing.dark.png'
       width: '100px'
       height: '100px'
     title: 'Dropzone Commander V2.2.0'
