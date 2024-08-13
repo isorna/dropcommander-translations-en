@@ -3,7 +3,7 @@ title: 'Core rules'
 excerpt: 'Dropfleet Commander core rules.'
 position: 4
 ---
-# Core rules
+# {{ $frontmatter.title }}
 
 <script setup>
   import { data as pages } from '/documents.data'

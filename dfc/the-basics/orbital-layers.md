@@ -4,7 +4,7 @@ excerpt: 'The basic Dropfleet rules cover fighting in space, but the truth is th
 position: 4
 ---
 
-# Orbital Layers
+# {{ $frontmatter.title }}
 
 The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system.
 

@@ -4,7 +4,7 @@ excerpt: 'After 160 years as refugees, humanity has returned to Earth.'
 position: 2
 ---
 
-# Earth, 2673
+# {{ $frontmatter.title }}
 
 After 160 years as refugees, humanity has returned to Earth.
 

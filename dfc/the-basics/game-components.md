@@ -4,7 +4,7 @@ excerpt: 'Game components used in DZC.'
 position: 2
 ---
 
-# Game components
+# {{ $frontmatter.title }}
 
 ## Dice
 
