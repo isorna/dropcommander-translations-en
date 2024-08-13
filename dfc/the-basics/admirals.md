@@ -70,7 +70,7 @@ A typical Command Card is set out as follows:
       <td>You may negate the effects of this enemy Command Card.</td>
     </tr>
     <tfoot>
-      <th colspan="2"><em>“Just goes to show that even Shaltari can fall into a trap, provided it’s set properly."</em></th>
+      <th colspan="2"><em>"Just goes to show that even Shaltari can fall into a trap, provided it's set properly."</em></th>
     </tfoot>
   </tbody>
 </table>

@@ -22,7 +22,7 @@ position: 1
 * [Game Turn Sequence](core-rules/game-turn-sequence)
 * [Battlegroup Cards & the Strategy Deck](core-rules/battlegroup-cards-the-strategy-deck)
 * [Battlegroup Activation Sequence](core-rules/battlegroup-activation-sequence)
-* [Ship’s Orders](core-rules/ships-orders)
+* [Ship's Orders](core-rules/ships-orders)
 * [Movement](core-rules/movement)
 * [Firing](core-rules/firing)
 * [Damage](core-rules/damage)

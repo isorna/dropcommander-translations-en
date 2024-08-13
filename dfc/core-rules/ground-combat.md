@@ -18,13 +18,13 @@ A Cluster is a predetermined area of the game map and will usually contain betwe
 
 ### Sectors
 
-Sectors are the strategically important areas of a Cluster and are usually the areas where Ground Assets are deployed. There are many types of Sectors in the game, with each Sector detailed in the Sectors section. Clusters can be made up of any combination of these although the scenarios will normally have colour coded Sectors indicating which Sectors to use in which Cluster.
+Sectors are the strategically important areas of a Cluster and are usually the areas where Ground Assets are deployed. There are many types of Sectors in the game, with each Sector detailed in the [Sectors section](/en/dfc/scenarios/objectives#sectors) of the Scenarios. Clusters can be made up of any combination of these although the scenarios will normally have colour coded Sectors indicating which Sectors to use in which Cluster.
 
-If a scenario or special rule requires you to be in range of a Sector (as opposed to in range of a Cluster), then measure to the nearest edge of the Sector Token. These sectors have damage points and rules which are detailed in the Scenarios section.
+If a scenario or special rule requires you to be in range of a Sector (as opposed to in range of a Cluster), then measure to the nearest edge of the Sector Token. These sectors have damage points and rules which are detailed in the [Scenarios section](/en/dfc/scenarios/).
 
 ### Space Stations in Planetary Combat
 
-They are treated as a single Sector for the purposes of resolving combat. They are treated as a single Sector for the purposes of resolving combat. Infantry, Armour and Batteries may be deployed to the Space Station in the same way as to a Sector in a Cluster. The player with the most Ground Asset tokens on a Space Station at the end of the Ground Asset Phase is the Controlling Player. In the event of a tie, no player controls the Space Station. See the [Space Station](/en/dfc/scenarios/scenery#space-stations) section for more details on using them in your games.
+They are treated as a single Sector for the purposes of resolving combat. Infantry, Armour and Batteries may be deployed to the Space Station in the same way as to a Sector in a Cluster. The player with the most Ground Asset tokens on a Space Station at the end of the Ground Asset Phase is the Controlling Player. In the event of a tie, no player controls the Space Station. See the [Space Station](/en/dfc/scenarios/scenery#space-stations) section for more details on using them in your games.
 
 ## Ground Assets
 
@@ -70,7 +70,7 @@ These giant defence bastions provide the defending forces with the ability to de
 
 If there are no friendly Infantry or Armoured tokens in their sector at the end of the Round Up Phase and one or more enemy Armour or Infantry tokens is in the same sector, then the Battery is removed from play.
 
-If an enemy tries to land Ground Assets (see Dropships and Bulk Landers) in a Cluster or Space Station that contains at least one Defence Battery roll 1D6 for each Asset attempting to land.
+If an enemy tries to land Ground Assets (see [Dropships](/en/dfc/core-rules/launch-assets#dropships) and [Bulk Landers](/en/dfc/core-rules/launch-assets#bulk-landers)) in a Cluster or Space Station that contains at least one Defence Battery roll 1D6 for each Asset attempting to land.
 
 For each roll of 3 or more, one of the landing Ground Assets it is destroyed and no token is placed. If the Asset is deployed by Dropships, then it is only destroyed on the roll of a 5 or more.
 
@@ -80,7 +80,7 @@ Once deployed, Defence Batteries may not move or redeploy between Sectors.
 
 Ground Assets are activated during the Ground Combat segment of the Roundup Phase.
 
-First of all, each player rolls 1D6 and adds the Admiral Value of their Admirall (if their Admiral is still on the table). Players with the same score repeat this until an order of Initiative is established.
+First of all, each player rolls 1D6 and adds the Admiral Value of their Admiral (if their Admiral is still on the table). Players with the same score repeat this until an order of Initiative is established.
 
 If only one player rolls a 6, they win Initiative, regardless of Admiral Value.
 

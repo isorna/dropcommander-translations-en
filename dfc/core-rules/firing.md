@@ -106,7 +106,7 @@ Close Action weapons may not fire into or out of Atmosphere.
 
 Close Action weapons may not be fired while in atmosphere unless otherwise stated by a ship or weapon special rule.
 
-Certain rules such as Bombardment and Air- to-Air override the penalties for shooting through orbital layers; these are covered in the special rules section or in individual ship entries.
+Certain rules such as Bombardment and Air-to-Air override the penalties for shooting through orbital layers; these are covered in the special rules section or in individual ship entries.
 
 ### Bombardment
 

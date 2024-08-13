@@ -4,7 +4,7 @@ excerpt: "When a Battlegroup's card is revealed, all the Groups in the Battlegro
 position: 3
 ---
 
-# Battlegroup Activation Sequence
+# {{ $frontmatter.title }}
 
 When a Battlegroup's card is revealed, all the Groups in the Battlegroup proceed to activate one at a time in a sequence decided by the owning player. An active group takes orders and must complete all of that order's moving, shooting and other actions before another Group can activate.
 

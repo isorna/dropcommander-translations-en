@@ -18,7 +18,7 @@ As the game size increases, the number of Battlegroups permitted is capped. This
 
 ## The Fleet Roster
 
-Each ship has a Tonnage value as explained in the Ship Characteristics section. The Battlegroup Tables show how many of each group of that tonnage may be in each Battlegroup. The large table below (known as the Fleet Roster) will then show how many of each Battlegroup may be chosen for each game size. Unless otherwise stated, a single Battlegroup may not come to more than 33% of your army’s total allowed points cost for Clashes and Battles, and 50% for skirmishes. This does not include the points cost of your Admiral.
+Each ship has a Tonnage value as explained in the Ship Characteristics section. The Battlegroup Tables show how many of each group of that tonnage may be in each Battlegroup. The large table below (known as the Fleet Roster) will then show how many of each Battlegroup may be chosen for each game size. Unless otherwise stated, a single Battlegroup may not come to more than 33% of your army's total allowed points cost for Clashes and Battles, and 50% for skirmishes. This does not include the points cost of your Admiral.
 
 All ships selected for your fleet must be from the same faction (so a Scourge fleet should comprise only Scourge ships), unless a special rule states that a ship can be included in specific factions.
 
