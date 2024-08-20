@@ -307,6 +307,9 @@ Torpedoes are relentless in their pursuit of a target and not so easy to shake o
       <td>May not Double Thrust</td>
     </tr>
   </tbody>
+</table>
+
+<table>
   <thead>
     <tr>
       <th colspan="6">Torpedoes</th>

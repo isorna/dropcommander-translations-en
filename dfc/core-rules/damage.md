@@ -8,7 +8,7 @@ position: 7
 
 ## 4. Total up Hull damage inflicted
 
-Every Attack Dice that t has scored a hit inflicts the number of Damage points indicated for the weapon system. Commonly this is one point of Hull damage per Attack Dice but particularly destructive weapons may inflict more.
+Every Attack Dice that has scored a hit inflicts the number of Damage points indicated for the weapon system. Commonly this is one point of Hull damage per Attack Dice but particularly destructive weapons may inflict more.
 
 Some weapon system are unpredictable and will inflict a variable number of damage points on each hit scored (e.g. D6, D6+1 etc.). Roll any additional dice needed to determine the actual amount of damage inflicted before any Armour saving throws are made.
 
@@ -36,7 +36,7 @@ The downside to passive countermeasures is that they often increase a ship's Sig
 
 When a ship has more than one saving throw, players choose the best applicable save and compare their roll to this.
 
-::: info _e.g. A ship has a 3+/4+ save. It receives five hits   three are normal hits, and the remaining two are critical hits. The ship's owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits_.
+::: info _e.g. A ship has a 3+/4+ save. It receives five hits three are normal hits, and the remaining two are critical hits. The ship's owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits_.
 :::
 
 ### Shields up!
@@ -65,7 +65,7 @@ When a ship has lost a cumulative total of more 50% or more of its starting Hull
 
 A ship with the Dreadnought special rule becomes Crippled and suffers Crippling Damage when the ship is reduced to 18 Hull and suffers Crippling Damage again at 10 Hull or less instead of the usual 50% of original hull.
 
-When a ship experiences Crippling Damage, roll a D6 and consult the relevant table on the following page to see where the Crippling Damage has occurred, and then roll a second D6 on the appropriate sub-table to discover the result. Dreadnoughts use special Crippling Damage and Catastrophic Damage tables, rolled in the same way.
+When a ship experiences Crippling Damage, roll a D6 and consult the following table to see where the Crippling Damage has occurred, and then roll a second D6 on the appropriate sub-table to discover the result. Dreadnoughts use special Crippling Damage and Catastrophic Damage tables, rolled in the same way.
 
 **Ships with a starting hull value of 3 or less are never subject to being Crippled and do not roll on the on the Crippling Damage table**.
 
@@ -77,6 +77,7 @@ When a ship experiences Crippling Damage, roll a D6 and consult the relevant tab
 
 Many Crippling Damage results inflict additional Hull damage on the ship. Armour saving throws never apply against Crippling Damage as it represents the ship suffering internal collapses, cascade failures and systems quite literally melting down. It's worth noting that smaller ships like frigates are quite likely to be destroyed outright by Crippling Damage.
 
+{#crippling-damage-table}
 <table>
   <thead>
     <tr>
@@ -161,6 +162,10 @@ Many Crippling Damage results inflict additional Hull damage on the ship. Armour
       <td>Yes</td>
     </tr>
   </tbody>
+</table>
+
+{#dreadnought-crippling-damage-table}
+<table>
   <thead>
     <tr>
       <th colspan="6">Dreadnought Crippling Damage Table</th>
@@ -263,6 +268,7 @@ Most Catastrophic Damage results can cause a ship to explode in some fashion. **
 
 Note that the explosion only ever effects ships on the **same Orbital Layer** as the destroyed ship.
 
+{#catastrophic-damage-table}
 <table>
   <thead>
     <tr>
@@ -301,6 +307,10 @@ Note that the explosion only ever effects ships on the **same Orbital Layer** as
       <td><strong>Distortion Bubble:</strong> Suffer D6 points of Hull damage (roll for each ship individually). Armour and Passive Countermeasures may <strong>not</strong> be used.</td>
     </tr>
   </tbody>
+</table>
+
+{#dreadnought-catastrophic-damage-table}
+<table>
   <thead>
     <tr>
       <th>D6 roll</th>
@@ -338,6 +348,7 @@ Ships are able to repair crippling damage at the start of the 3rd step in the Ro
 
 Armour and Passive Countermeasures cannot prevent Hull damage from this source.
 
+{#damage-control-table}
 <table>
   <thead>
     <tr>

@@ -12,23 +12,12 @@ Your forces advance, ready to take the fight to the enemy on the surface and in 
 
 ![Take & Hold map](/img/ui/400x400.svg "Take & Hold")
 
-### Players
 * 2 players.
-
-### Fleet List
-* Standard.
-
-### Suggested Approach
-* Column (opposing edges shown in blue).
-
-### Duration
-* 6 turns.
-
-### Orbital Debris
-* Defris Fields (2-5 Fine, 4-6 Dense).
-
-### Victory Conditions
-* Clusters (Standard Scoring, Critical Locations).
+* Fleet List: Standard.
+* Suggested Approach: Column (opposing edges shown in blue).
+* Duration: 6 turns.
+* Orbital Debris: Debris Fields (2-5 Fine, 4-6 Dense).
+* Victory Conditions: Clusters (Standard Scoring, Critical Locations).
 
 ::: tip Variant: "Double Down"
 The two clusters (and their Critical Locations) either side of the centre cluster are worth double victory points.
@@ -41,25 +30,15 @@ engagement, with the foe making a play for key sectors on the surface. Capture a
 
 ![Erupting Battlefront map](/img/ui/400x400.svg "Erupting Battlefront")
 
-### Players
 * 2 players.
-
-### Fleet List
-* Standard.
-
-### Suggested Approach
-* Rapid Reaction (opposing edges shown in blue).
-
-### Duration
-* 6 turns.
-
-### Orbital Debris
-* Planetary Ring.
-
-### Victory Conditions
-* Player 1: Gains 1 VP for each Sector in B Clusters destroyed, B Clusters are Critical Locations and A Clusters follow standard scoring.
-* Player 2: Gains 1 VP for each Sector in A Clusters destroyed, A Clusters are Critical Locations and B Clusters follow standard scoring.
-* Both players: C Clusters and Space Stations (Standard Scoring, Critical Locations).
+* Fleet List: Standard.
+* Suggested Approach: Rapid Reaction (opposing edges shown in blue).
+* Duration: 6 turns.
+* Orbital Debris: Planetary Ring.
+* Victory Conditions
+  * Player 1: Gains 1 VP for each Sector in B Clusters destroyed, B Clusters are Critical Locations and A Clusters follow standard scoring.
+  * Player 2: Gains 1 VP for each Sector in A Clusters destroyed, A Clusters are Critical Locations and B Clusters follow standard scoring.
+  * Both players: C Clusters and Space Stations (Standard Scoring, Critical Locations).
 
 ::: tip Variant: "Punching Up"
 Replace 2 of the Sectors in the central Cluster with Orbital Guns.
@@ -73,23 +52,12 @@ Hold the space stations and ground support clusters close to it to deny the adve
 
 ![Moonshot map](/img/ui/400x400.svg "Moonshot")
 
-### Players
-* 2 players.
-
-### Fleet List
-* Standard.
-
-### Suggested Approach
-* Battle Line (12" along opposing board corners shown in blue).
-
-### Duration
-* 6 turns.
-
-### Orbital Debris
-* Defris Fields (0-2 Fine, 2-3 Dense), LSO (12" Diameter).
-
-### Victory Conditions
-* Clusters (Standard Scoring, Critical Locations), Space Stations (Score as Medium Clusters and Critical Locations). In addition, players are awarded Victory Points for the following Kill Points.
+* Players: 2 players.
+* Fleet List: Standard.
+* Suggested Approach: Battle Line (12" along opposing board corners shown in blue).
+* Duration: 6 turns.
+* Orbital Debris: Debris Fields (0-2 Fine, 2-3 Dense), LSO (12" Diameter).
+* Victory Conditions: Clusters (Standard Scoring, Critical Locations), Space Stations (Score as Medium Clusters and Critical Locations). In addition, players are awarded Victory Points for the following Kill Points.
 
 <table>
   <thead>
@@ -124,23 +92,12 @@ This region's main weakness is intermittent and shifting power supply, often gen
 
 ![Power Grab map](/img/ui/400x400.svg "Power Grab")
 
-### Players
-* 2 players.
-
-### Fleet List
-* Standard.
-
-### Suggested Approach
-* Column (12" along opposing board corners shown in blue).
-
-### Duration
-* 6 turns.
-
-### Orbital Debris
-* Defris Fields (2-8 Fine, 6-10 Dense).
-
-### Victory Conditions
-* Clusters (Standard Scoring, Critical Locations). Clusters Containing Power Plants are worth double Victory Points but nothing if the Power Plants is destroyed.
+* Players: 2 players.
+* Fleet List: Standard.
+* Suggested Approach: Column (12" along opposing board corners shown in blue).
+* Duration: 6 turns.
+* Orbital Debris: Debris Fields (2-8 Fine, 6-10 Dense).
+* Victory Conditions: Clusters (Standard Scoring, Critical Locations). Clusters Containing Power Plants are worth double Victory Points but nothing if the Power Plants is destroyed.
 
 ::: tip Variant: "Bifuricate"
 Remove the Debris Fields and place a Planetary Ring Vertically through the centre of the table.
