@@ -102,3 +102,107 @@ This region's main weakness is intermittent and shifting power supply, often gen
 ::: tip Variant: "Bifuricate"
 Remove the Debris Fields and place a Planetary Ring Vertically through the centre of the table.
 :::
+
+## The Anomaly
+
+::: info **ADMIRAL, TASKFORCE SHIP CAPTAIN'S EYES ONLY - ANOMALY DETECTED**
+A Lysander class lighter operating under the auspices of the Office of Naval Intelligence has detected an
+anomalous vessel in your combat zone. She is cruiser-sized, running dark and does not match any known
+signature. She approached at beyond-relativistic realspace speed, which is notionally impossible, slowed to
+combat speed above your planet of operations, and has been making multiple course changes. All attempts
+to hail her have failed. No conventional life signs were detected, but spectral analysis suggests the presence of
+unusually homogenous organic matter. ONI lost contact with our Lysander 17 minutes ago.
+
+Proceed with your current mission, but additionally, and this is time-critical, obtain further intelligence about
+this vessel. Do not engage or attempt to hail. Do not approach to within visual range, where we risk deck crew
+making observations. Bridge crew should be made aware that any information gleaned is classified to level 6,
+and confined to quarters under guard for an indefinite period post-mission. Proceed with caution. We surmise
+the enemy is also attempting to research this vessel. You will be visited by a senior representative of ONI in due
+course. Out.
+:::
+
+The Anomaly may be added to almost any existing Dropfleet Commander scenario. First, replace a random
+cluster or space station with The Anomaly - the replaced cluster or space station must be further than 12" from
+any player's deployment zone/ board edge. The Anomaly should be placed in low orbit and facing a random
+cluster or space station, again, not one within 12" of any player's deployment zone/ board edge. If making
+the replacement would compromise the scenario, choose a different one to replace. If impossible, place The
+Anomaly in the centre of the table.
+
+At the end of each Roundup Phase, The Anomaly should be moved 9" forward. If that move would take it within
+6" of the cluster/ space station it is facing, it should stop there and be turned to face another random cluster or
+space station (any, this time). The Anomaly may not be targeted offensively and cannot take damage in any way.
+Once per turn, you may active-scan The Anomaly. Once done, roll 1D6 and refer to the following table:
+
+<table>
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th colspan="5">Distance from scanning ship to The Anomaly</th>
+    </tr>
+    <tr>
+      <th>D6 Roll</th>
+      <th>Over 36"</th>
+      <th>25-36"</th>
+      <th>13-24"</th>
+      <th>7-12"</th>
+      <th>0-6"</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>D</td>
+      <td>D</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>D</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>0 VP</td>
+      <td>0 VP</td>
+      <td>1 VP</td>
+      <td>1 VP</td>
+      <td>2 VP</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1 VP</td>
+      <td>1 VP</td>
+      <td>1 VP</td>
+      <td>2 VP</td>
+      <td>3 VP</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>1 VP</td>
+      <td>2 VP</td>
+      <td>2 VP</td>
+      <td>3 VP</td>
+      <td>4 VP</td>
+    </tr>
+  </tbody>
+</table>
+
+Either an amount of VP's are gained, or the scanning ship is rendered mysteriously inoperable (a result of 'D').
+In which case, remove it from play, and do not roll on the Catastrophic Damage Table. Opponents score no Kill
+Points for this ship.
+
+If any ship ends its move in high/low orbit within 3" of The Anomaly, its owner loses 1VP. Additionally, if The
+Anomaly's end of turn move places it within 3" of another ship in high/low orbit, that ship’s owner loses 1VP.

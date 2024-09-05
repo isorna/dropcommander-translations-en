@@ -20,6 +20,7 @@ position: 0
     filteredPages.find(page => page.href == `${slug}special-rules.html`),
     filteredPages.find(page => page.href == `${slug}glossary.html`),
     filteredPages.find(page => page.href == `${slug}faq.html`),
+    filteredPages.find(page => page.href == `${slug}fleet-builder/`),
   ]
 </script>
 

@@ -1,7 +1,7 @@
 ---
 title: 'FAQ'
 excerpt: 'Battle for Earth FAQ v2.4'
-position: 7
+position: 8
 ---
 
 # {{ $frontmatter.title }} v2.4
